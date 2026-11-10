@@ -1,0 +1,15 @@
+streamlit>=1.40
+pandas>=2.0
+numpy
+openpyxl
+plotly
+tabulate
+markdown
+scikit-learn
+sqlalchemy
+pypdf
+reportlab
+matplotlib
+python-dotenv
+groq
+pytest

@@ -1,0 +1,1521 @@
+Order ID,Order Date,CustomerName,State,City,Category,Sub-Category,Amount,Profit,Quantity,PaymentMode
+B-25000,12-06-2018,Kabir,Uttar Pradesh,Mumbai,Electronics,Electronic Games,641.0,133.0,7,COD
+B-25001,07-01-2018,Harivansh,Gujarat,Amritsar,Clothing,Trousers,286.0,9.0,3,COD
+B-25002,03-09-2018,Diya,,Mumbai,Furniture,Furnishings,272.0,-17.0,6,UPI
+B-25003,16-06-2018,Aarav,Uttar Pradesh,Delhi,Electronics,Electronic Games,88.0,42.0,5,Debit Card
+B-25004,09-10-2018,Kabir,Punjab,Surat,Clothing,Trousers,212.0,-44.0,5,COD
+B-25005,14-08-2018,Shiva,Uttar Pradesh,Delhi,Furniture,Tables,370.0,95.0,6,Credit Card
+B-25006,15-10-2018,Madhav,Punjab,Mumbai,Electronics,Accessories,372.0,233.0,7,Debit Card
+B-25007,18-06-2018,Kabir,Gujarat,Mumbai,Electronics,Phones,24.0,8.0,6,Credit Card
+B-25008,03-01-2018,Diya,Maharashtra,Surat,Clothing,Trousers,543.0,39.0,5,Debit Card
+B-25009,17-02-2018,Shiva,Madhya Pradesh,Amritsar,Clothing,Skirt,292.0,-59.0,7,COD
+B-25010,17-06-2018,Madan Mohan,Delhi,Lucknow,Clothing,Kurti,150.0,-39.0,4,EMI
+B-25011,26-05-2018,Madan Mohan,Punjab,Delhi,Furniture,Chairs,93.0,-2.0,5,Credit Card
+B-25012,17-10-2018,Shiva,Madhya Pradesh,Amritsar,Electronics,Printers,254.0,-23.0,2,UPI
+B-25013,31-05-2018,Madan Mohan,Maharashtra,Surat,Electronics,Accessories,635.0,-63.0,3,COD
+B-25014,10-11-2018,Madan Mohan,Uttar Pradesh,Delhi,Clothing,Shirt,136.0,-0.0,7,COD
+B-25015,10-03-2018,Madan Mohan,Maharashtra,Delhi,Clothing,Shirt,379.0,21.0,4,UPI
+B-25016,21-05-2018,Harivansh,Delhi,Amritsar,Clothing,Shirt,43.0,9.0,4,COD
+B-25017,04-10-2018,Meera,Madhya Pradesh,Surat,Clothing,Kurti,79.0,-18.0,6,Debit Card
+B-25018,15-02-2018,Madhav,Delhi,Lucknow,Electronics,Accessories,306.0,-28.0,3,COD
+B-25019,28-04-2018,Madhav,Gujarat,Surat,Electronics,Accessories,158.0,6.0,2,UPI
+B-25020,02-10-2018,Madhav,Uttar Pradesh,Indore,Electronics,Phones,112.0,,1,COD
+B-25021,03-08-2018,Meera,Uttar Pradesh,Amritsar,Clothing,Saree,999.0,539.0,2,COD
+B-25022,11-10-2018,Shiva,Delhi,Mumbai,Furniture,Tables,253.0,35.0,4,COD
+B-25023,08-07-2018,Madan Mohan,Gujarat,Indore,Furniture,Bookcases,127.0,-41.0,6,Credit Card
+B-25024,10-11-2018,Shiva,Gujarat,Lucknow,Electronics,Phones,235.0,43.0,3,UPI
+B-25025,17-11-2018,Harivansh,Maharashtra,Indore,Clothing,Trousers,649.0,140.0,4,EMI
+B-25026,22-12-2018,Madan Mohan,Uttar Pradesh,Delhi,Clothing,Saree,162.0,,2,Debit Card
+B-25027,14-02-2018,Madhav,Maharashtra,Surat,Clothing,Trousers,255.0,-57.0,6,Debit Card
+B-25028,04-08-2018,Kabir,Gujarat,Amritsar,Clothing,Kurti,1415.0,735.0,4,UPI
+B-25029,11-02-2018,Harivansh,Uttar Pradesh,Delhi,Electronics,Electronic Games,317.0,-59.0,2,Credit Card
+B-25030,25-03-2018,Shiva,Madhya Pradesh,Delhi,Electronics,Accessories,270.0,66.0,5,EMI
+B-25031,20-04-2018,Kabir,Maharashtra,Delhi,Furniture,Tables,117.0,15.0,3,Debit Card
+B-25032,24-08-2018,Kabir,Madhya Pradesh,Mumbai,Clothing,Shirt,383.0,88.0,7,COD
+B-25033,07-06-2018,Aarav,Delhi,Surat,Clothing,Saree,397.0,201.0,2,Debit Card
+B-25034,12-11-2018,Madhav,Maharashtra,Mumbai,Clothing,Saree,499.0,110.0,7,COD
+B-25035,19-04-2018,Madan Mohan,Maharashtra,Delhi,Clothing,Skirt,105.0,-6.0,5,COD
+B-25036,14-08-2018,Madhav,Gujarat,Amritsar,Clothing,Skirt,230.0,82.0,1,Debit Card
+B-25037,06-10-2018,Diya,Delhi,Surat,Clothing,Saree,188.0,-15.0,6,Credit Card
+B-25038,24-12-2018,Madan Mohan,Maharashtra,Delhi,Clothing,Kurti,103.0,12.0,6,COD
+B-25039,31-03-2018,Diya,Maharashtra,Indore,Electronics,Printers,227.0,,4,COD
+B-25040,25-09-2018,Diya,Punjab,Amritsar,Clothing,Kurti,122.0,-22.0,2,Credit Card
+B-25041,31-01-2018,Meera,Delhi,Amritsar,Electronics,Phones,90.0,8.0,4,COD
+B-25042,18-07-2018,Madan Mohan,Uttar Pradesh,Lucknow,Electronics,Phones,442.0,76.0,5,COD
+B-25043,01-06-2018,Meera,Madhya Pradesh,Mumbai,Clothing,Shirt,195.0,-67.0,1,Debit Card
+B-25044,16-12-2018,Shiva,Maharashtra,Delhi,Electronics,Printers,156.0,32.0,3,Credit Card
+B-25045,10-10-2018,Diya,Maharashtra,Delhi,Electronics,Electronic Games,581.0,-73.0,5,UPI
+B-25046,05-12-2018,Diya,Delhi,Amritsar,Clothing,Trousers,406.0,162.0,4,UPI
+B-25047,07-11-2018,Kabir,Maharashtra,Amritsar,Clothing,Trousers,49.0,-0.0,7,COD
+B-25048,30-05-2018,Shiva,Maharashtra,Indore,Electronics,Printers,354.0,-71.0,2,COD
+B-25049,25-09-2018,Kabir,Delhi,Indore,Clothing,Trousers,353.0,35.0,6,Debit Card
+B-25050,12-01-2018,Madan Mohan,Punjab,Amritsar,Clothing,Skirt,220.0,-33.0,3,Credit Card
+B-25051,23-07-2018,Shiva,Delhi,Indore,Clothing,Saree,214.0,85.0,2,COD
+B-25052,18-01-2018,Shiva,Madhya Pradesh,Lucknow,Electronics,Electronic Games,71.0,6.0,7,COD
+B-25053,22-09-2018,Diya,Madhya Pradesh,Indore,Electronics,Phones,912.0,38.0,5,COD
+B-25054,19-12-2018,Aarav,Madhya Pradesh,Lucknow,Electronics,Electronic Games,227.0,52.0,4,COD
+B-25055,06-09-2018,Harivansh,Madhya Pradesh,Delhi,Electronics,Phones,341.0,-58.0,3,COD
+B-25056,03-11-2018,Kabir,Uttar Pradesh,Indore,Clothing,Skirt,236.0,-57.0,7,COD
+B-25057,27-03-2018,Kabir,Madhya Pradesh,Lucknow,Clothing,Saree,158.0,29.0,1,Credit Card
+B-25058,29-12-2018,Harivansh,Uttar Pradesh,Lucknow,Clothing,Kurti,465.0,-91.0,1,COD
+B-25059,21-07-2018,Meera,Gujarat,Mumbai,Clothing,Kurti,298.0,-58.0,2,Debit Card
+B-25060,04-09-2018,Diya,Punjab,Surat,Electronics,Printers,228.0,66.0,5,UPI
+B-25061,09-10-2018,Harivansh,Maharashtra,Amritsar,Clothing,Kurti,338.0,71.0,1,Credit Card
+B-25062,22-08-2018,Shiva,Madhya Pradesh,Lucknow,Clothing,Kurti,252.0,-59.0,6,EMI
+B-25063,26-04-2018,Kabir,Maharashtra,Indore,Electronics,Printers,769.0,-58.0,2,COD
+B-25064,12-08-2018,Madan Mohan,Madhya Pradesh,Delhi,Electronics,Accessories,455.0,-66.0,5,COD
+B-25065,27-08-2018,Meera,Maharashtra,Delhi,Clothing,Shirt,377.0,198.0,6,Debit Card
+B-25066,09-11-2018,Shiva,Maharashtra,Delhi,Clothing,Skirt,78.0,24.0,7,COD
+B-25067,25-06-2018,Madhav,Delhi,Delhi,Clothing,Trousers,386.0,-10.0,3,COD
+B-25068,03-07-2018,Madan Mohan,Madhya Pradesh,Surat,Clothing,Saree,379.0,85.0,1,COD
+B-25069,03-07-2018,Aarav,Punjab,Mumbai,Clothing,Saree,124.0,-32.0,6,Credit Card
+B-25070,11-02-2018,Diya,Maharashtra,Mumbai,Clothing,Shirt,77.0,-7.0,4,COD
+B-25071,02-02-2018,Meera,Maharashtra,Mumbai,Clothing,Shirt,443.0,47.0,7,UPI
+B-25072,08-01-2018,Madhav,Madhya Pradesh,Mumbai,Furniture,Bookcases,480.0,93.0,2,COD
+B-25073,01-09-2018,Meera,Maharashtra,Amritsar,Clothing,Trousers,168.0,9.0,5,Debit Card
+B-25074,02-06-2018,Aarav,Maharashtra,Surat,Clothing,Shirt,163.0,23.0,1,COD
+B-25075,12-11-2018,Madhav,Punjab,Delhi,Clothing,Trousers,295.0,29.0,4,Credit Card
+B-25076,14-09-2018,Meera,Maharashtra,Surat,Clothing,Saree,194.0,8.0,1,Debit Card
+B-25077,21-02-2018,Madan Mohan,Maharashtra,Mumbai,Electronics,Electronic Games,76.0,0.0,6,COD
+B-25078,06-02-2018,Aarav,Uttar Pradesh,Indore,Clothing,Kurti,123.0,-3.0,5,COD
+B-25079,14-05-2018,Diya,Madhya Pradesh,Surat,Electronics,Phones,332.0,46.0,1,Credit Card
+B-25080,03-12-2018,Harivansh,Uttar Pradesh,Lucknow,Electronics,Phones,128.0,23.0,4,Debit Card
+B-25081,18-01-2018,Madhav,Madhya Pradesh,Delhi,Clothing,Skirt,496.0,64.0,3,COD
+B-25082,10-03-2018,Diya,Gujarat,Surat,Electronics,Phones,375.0,-80.0,5,COD
+B-25083,11-01-2018,Madan Mohan,Maharashtra,Mumbai,Clothing,Kurti,342.0,-58.0,4,COD
+B-25084,31-05-2018,Harivansh,Madhya Pradesh,Surat,Clothing,Kurti,290.0,52.0,4,COD
+B-25085,28-12-2018,Harivansh,Delhi,Surat,Clothing,Kurti,152.0,68.0,6,COD
+B-25086,07-09-2018,Kabir,Gujarat,Lucknow,Electronics,Printers,410.0,48.0,4,COD
+B-25087,30-06-2018,Madhav,Madhya Pradesh,Lucknow,Clothing,Saree,149.0,-3.0,6,COD
+B-25088,22-02-2018,Harivansh,Uttar Pradesh,Mumbai,Clothing,Kurti,514.0,70.0,7,Credit Card
+B-25089,10-05-2018,Aarav,Maharashtra,Indore,Clothing,Shirt,692.0,-141.0,6,Credit Card
+B-25090,11-07-2018,Harivansh,Maharashtra,Indore,Clothing,Kurti,297.0,121.0,7,Credit Card
+B-25091,11-04-2018,Diya,Maharashtra,Amritsar,Electronics,Phones,633.0,80.0,5,UPI
+B-25092,15-09-2018,Aarav,Delhi,Mumbai,Clothing,Trousers,124.0,-11.0,4,UPI
+B-25093,24-12-2018,Diya,Maharashtra,Indore,Clothing,Kurti,378.0,14.0,4,COD
+B-25094,17-03-2018,Shiva,Delhi,Mumbai,Clothing,Skirt,265.0,-14.0,2,Debit Card
+B-25095,03-04-2018,Kabir,Maharashtra,Indore,Electronics,Electronic Games,448.0,183.0,6,COD
+B-25096,16-02-2018,Diya,Gujarat,Mumbai,Clothing,Saree,51.0,2.0,5,UPI
+B-25097,22-09-2018,Shiva,Gujarat,Indore,Clothing,Kurti,430.0,51.0,7,EMI
+B-25098,18-06-2018,Harivansh,Maharashtra,Surat,Clothing,Saree,163.0,36.0,5,Credit Card
+B-25099,14-04-2018,Madan Mohan,Maharashtra,Surat,Furniture,Tables,274.0,-29.0,4,COD
+B-25100,22-03-2018,Madhav,Maharashtra,Lucknow,Furniture,Tables,902.0,116.0,3,Debit Card
+B-25101,26-01-2018,Harivansh,Gujarat,Surat,Electronics,Printers,386.0,57.0,7,COD
+B-25102,23-06-2018,Madan Mohan,Maharashtra,Delhi,Clothing,Saree,353.0,-109.0,6,COD
+B-25103,07-09-2018,Madhav,Uttar Pradesh,Amritsar,Furniture,Tables,334.0,48.0,7,COD
+B-25104,27-03-2018,Harivansh,Madhya Pradesh,Surat,Electronics,Accessories,550.0,38.0,5,COD
+B-25105,01-01-2018,Madan Mohan,Gujarat,Indore,Electronics,Phones,458.0,52.0,4,Debit Card
+B-25106,22-06-2018,Aarav,Madhya Pradesh,Delhi,Clothing,Skirt,336.0,30.0,1,COD
+B-25107,04-09-2018,Madhav,Madhya Pradesh,Surat,Clothing,Kurti,308.0,45.0,1,COD
+B-25108,06-05-2018,Madan Mohan,Punjab,Indore,Clothing,Skirt,294.0,122.0,5,EMI
+B-25109,02-04-2018,Harivansh,Maharashtra,Delhi,Furniture,Bookcases,255.0,-55.0,2,UPI
+B-25110,26-02-2018,Harivansh,Gujarat,Lucknow,Clothing,Shirt,103.0,-1.0,1,COD
+B-25111,30-09-2018,Madhav,Maharashtra,Indore,Clothing,Trousers,381.0,94.0,6,UPI
+B-25112,11-11-2018,Shiva,Madhya Pradesh,Indore,Clothing,Saree,176.0,35.0,5,UPI
+B-25113,08-10-2018,Diya,Gujarat,Mumbai,Clothing,Skirt,233.0,45.0,1,UPI
+B-25114,09-07-2018,Kabir,Uttar Pradesh,Surat,Clothing,Kurti,479.0,368.0,4,UPI
+B-25115,22-09-2018,Diya,Delhi,Surat,Furniture,Tables,259.0,60.0,4,Credit Card
+B-25116,25-05-2018,Aarav,Maharashtra,Delhi,Electronics,Accessories,245.0,89.0,1,COD
+B-25117,09-01-2018,Meera,Madhya Pradesh,Indore,Electronics,Accessories,298.0,1.0,5,UPI
+B-25118,15-05-2018,Madan Mohan,Madhya Pradesh,Mumbai,Clothing,Saree,212.0,-36.0,3,COD
+B-25119,14-09-2018,Kabir,Uttar Pradesh,Delhi,Clothing,Skirt,889.0,1.0,7,Credit Card
+B-25120,25-08-2018,Meera,Madhya Pradesh,Indore,Clothing,Trousers,812.0,209.0,1,COD
+B-25121,28-12-2018,Aarav,Madhya Pradesh,Delhi,Electronics,Electronic Games,798.0,145.0,6,COD
+B-25122,31-12-2018,Kabir,Madhya Pradesh,Amritsar,Clothing,Shirt,334.0,60.0,1,EMI
+B-25123,30-03-2018,Madhav,Maharashtra,Mumbai,Clothing,Trousers,168.0,4.0,6,UPI
+B-25124,04-01-2018,Meera,Madhya Pradesh,Delhi,Clothing,Shirt,487.0,-7.0,6,COD
+B-25125,11-04-2018,Aarav,Maharashtra,Amritsar,Clothing,Skirt,214.0,7.0,3,COD
+B-25126,16-11-2018,Madhav,Gujarat,Lucknow,Clothing,Skirt,516.0,135.0,2,COD
+B-25127,24-10-2018,Harivansh,Uttar Pradesh,Surat,Clothing,Skirt,162.0,47.0,1,EMI
+B-25128,06-02-2018,Diya,Maharashtra,Surat,Clothing,Shirt,351.0,-60.0,3,COD
+B-25129,28-02-2018,Shiva,Delhi,Lucknow,Clothing,Trousers,564.0,153.0,5,COD
+B-25130,25-07-2018,Madan Mohan,Gujarat,Indore,Clothing,Kurti,222.0,-18.0,6,UPI
+B-25131,30-08-2018,Shiva,Maharashtra,Surat,Furniture,Tables,222.0,44.0,2,COD
+B-25132,25-12-2018,Meera,Maharashtra,Delhi,Clothing,Trousers,83.0,3.0,1,COD
+B-25133,03-10-2018,Shiva,Maharashtra,Lucknow,Clothing,Saree,166.0,78.0,4,Credit Card
+B-25134,19-03-2018,Harivansh,Maharashtra,Indore,Clothing,Trousers,330.0,-8.0,5,COD
+B-25135,14-01-2018,Madan Mohan,Delhi,Surat,Clothing,Saree,365.0,45.0,7,Credit Card
+B-25136,20-08-2018,Madhav,Punjab,Indore,Furniture,Chairs,401.0,93.0,6,Credit Card
+B-25137,22-07-2018,Diya,Maharashtra,Mumbai,Clothing,Shirt,60.0,-8.0,4,COD
+B-25138,03-12-2018,Kabir,Delhi,Mumbai,Electronics,Phones,214.0,13.0,5,Debit Card
+B-25139,30-07-2018,Kabir,Maharashtra,Lucknow,Clothing,Shirt,91.0,1.0,5,Debit Card
+B-25140,02-07-2018,Diya,Uttar Pradesh,Mumbai,Clothing,Shirt,319.0,-15.0,4,UPI
+B-25141,21-04-2018,Kabir,Delhi,Lucknow,Clothing,Shirt,72.0,-2.0,5,UPI
+B-25142,01-02-2018,Shiva,Madhya Pradesh,Indore,Furniture,Tables,113.0,40.0,2,COD
+B-25143,16-11-2018,Diya,Maharashtra,Lucknow,Clothing,Shirt,453.0,-32.0,6,COD
+B-25144,29-10-2018,Harivansh,Uttar Pradesh,Surat,Clothing,Trousers,180.0,40.0,7,Debit Card
+B-25145,01-03-2018,Aarav,Punjab,Lucknow,Clothing,Shirt,637.0,101.0,4,COD
+B-25146,14-09-2018,Aarav,Maharashtra,Delhi,Clothing,Trousers,408.0,-110.0,4,COD
+B-25147,13-05-2018,Harivansh,Maharashtra,Mumbai,Clothing,Skirt,223.0,47.0,4,UPI
+B-25148,09-06-2018,Aarav,Maharashtra,Mumbai,Clothing,Skirt,501.0,-137.0,6,COD
+B-25149,06-11-2018,Diya,Uttar Pradesh,Amritsar,Clothing,Saree,237.0,56.0,2,Credit Card
+B-25150,04-11-2018,Madan Mohan,Uttar Pradesh,Delhi,Electronics,Accessories,436.0,-20.0,3,Credit Card
+B-25151,11-03-2018,Aarav,Gujarat,Mumbai,Furniture,Bookcases,159.0,,5,Credit Card
+B-25152,23-04-2018,Madan Mohan,Delhi,Delhi,Clothing,Saree,520.0,-127.0,5,COD
+B-25153,27-10-2018,Madan Mohan,Gujarat,Mumbai,Clothing,Trousers,77.0,9.0,3,COD
+B-25154,01-12-2018,Madhav,Gujarat,Mumbai,Clothing,Saree,113.0,35.0,1,Credit Card
+B-25155,29-01-2018,Madan Mohan,Maharashtra,Lucknow,Electronics,Electronic Games,129.0,-16.0,4,COD
+B-25156,01-11-2018,Kabir,Uttar Pradesh,Delhi,Clothing,Trousers,172.0,-12.0,5,Debit Card
+B-25157,28-06-2018,Meera,Maharashtra,Delhi,Electronics,Electronic Games,338.0,65.0,6,UPI
+B-25158,04-08-2018,Diya,Madhya Pradesh,Surat,Electronics,Accessories,269.0,54.0,1,COD
+B-25159,28-01-2018,Aarav,Punjab,Indore,Electronics,Electronic Games,439.0,-232.0,1,COD
+B-25160,06-09-2018,Aarav,Delhi,Indore,Clothing,Saree,569.0,332.0,3,Debit Card
+B-25161,05-09-2018,Shiva,Punjab,Delhi,Furniture,Furnishings,70.0,15.0,4,COD
+B-25162,30-08-2018,Shiva,Madhya Pradesh,Amritsar,Clothing,Saree,614.0,156.0,1,Credit Card
+B-25163,16-10-2018,Aarav,Uttar Pradesh,Surat,Clothing,Kurti,233.0,10.0,2,UPI
+B-25164,12-12-2018,Kabir,Madhya Pradesh,Surat,Clothing,Saree,788.0,-302.0,3,COD
+B-25165,07-11-2018,Shiva,Maharashtra,Mumbai,Clothing,Shirt,154.0,38.0,2,Debit Card
+B-25166,29-09-2018,Aarav,Maharashtra,Amritsar,Electronics,Accessories,55.0,-3.0,5,COD
+B-25167,25-12-2018,Shiva,Uttar Pradesh,Amritsar,Electronics,Phones,411.0,89.0,1,COD
+B-25168,04-09-2018,Madan Mohan,Maharashtra,Delhi,Clothing,Skirt,394.0,10.0,7,EMI
+B-25169,03-09-2018,Madan Mohan,Punjab,Lucknow,Furniture,Chairs,115.0,16.0,2,Debit Card
+B-25170,17-07-2018,Harivansh,Maharashtra,Delhi,Clothing,Trousers,125.0,-14.0,4,UPI
+B-25171,08-10-2018,Shiva,Maharashtra,Delhi,Clothing,Skirt,461.0,137.0,7,Credit Card
+B-25172,27-01-2018,Diya,Delhi,Amritsar,Clothing,Shirt,349.0,-76.0,5,UPI
+B-25173,04-07-2018,Diya,Maharashtra,Mumbai,Furniture,Tables,217.0,139.0,7,UPI
+B-25174,05-06-2018,Meera,Punjab,Delhi,Clothing,Skirt,373.0,239.0,1,COD
+B-25175,30-11-2018,Harivansh,Delhi,Surat,Clothing,Shirt,326.0,159.0,6,COD
+B-25176,27-01-2018,Kabir,Maharashtra,Lucknow,Clothing,Trousers,135.0,,1,COD
+B-25177,23-08-2018,Kabir,Delhi,Amritsar,Furniture,Tables,484.0,28.0,5,UPI
+B-25178,09-03-2018,Shiva,Uttar Pradesh,Mumbai,Furniture,Bookcases,424.0,158.0,3,Debit Card
+B-25179,19-11-2018,Madan Mohan,Delhi,Mumbai,Electronics,Printers,273.0,15.0,6,UPI
+B-25180,07-11-2018,Madan Mohan,Gujarat,Surat,Furniture,Bookcases,461.0,-142.0,1,UPI
+B-25181,27-03-2018,Diya,Delhi,Mumbai,Furniture,Bookcases,852.0,388.0,7,Credit Card
+B-25182,15-11-2018,Kabir,Uttar Pradesh,Lucknow,Clothing,Trousers,124.0,45.0,4,EMI
+B-25183,01-07-2018,Diya,Madhya Pradesh,Indore,Clothing,Saree,224.0,16.0,4,COD
+B-25184,21-12-2018,Aarav,Delhi,Surat,Electronics,Accessories,232.0,-53.0,4,EMI
+B-25185,24-09-2018,Diya,Punjab,Mumbai,Electronics,Electronic Games,455.0,-30.0,1,Credit Card
+B-25186,13-01-2018,Harivansh,Uttar Pradesh,Lucknow,Clothing,Trousers,171.0,-64.0,3,COD
+B-25187,15-03-2018,Aarav,Uttar Pradesh,Amritsar,Clothing,Shirt,438.0,139.0,5,COD
+B-25188,28-05-2018,Harivansh,Madhya Pradesh,Lucknow,Electronics,Printers,186.0,-60.0,7,COD
+B-25189,19-03-2018,Meera,Delhi,Delhi,Clothing,Skirt,113.0,17.0,7,Debit Card
+B-25190,18-02-2018,Meera,Punjab,Amritsar,Furniture,Bookcases,285.0,-37.0,4,UPI
+B-25191,23-12-2018,Aarav,Maharashtra,Delhi,Clothing,Trousers,183.0,-51.0,2,UPI
+B-25192,14-11-2018,Madan Mohan,Maharashtra,Surat,Clothing,Trousers,305.0,43.0,4,Debit Card
+B-25193,08-06-2018,Diya,Uttar Pradesh,Amritsar,Electronics,Printers,356.0,-1.0,4,COD
+B-25194,20-03-2018,Diya,Madhya Pradesh,Delhi,Clothing,Trousers,75.0,22.0,3,COD
+B-25195,08-03-2018,Diya,Uttar Pradesh,Surat,Clothing,Saree,199.0,-47.0,3,Credit Card
+B-25196,01-12-2018,Aarav,Maharashtra,Delhi,Clothing,Kurti,285.0,-31.0,7,EMI
+B-25197,01-05-2018,Madhav,Madhya Pradesh,Surat,Furniture,Furnishings,463.0,-239.0,3,Debit Card
+B-25198,05-01-2018,Harivansh,Uttar Pradesh,Delhi,Clothing,Skirt,426.0,-199.0,1,COD
+B-25199,26-05-2018,Madan Mohan,Uttar Pradesh,Lucknow,Clothing,Kurti,144.0,76.0,6,COD
+B-25200,15-06-2018,Aarav,Uttar Pradesh,Delhi,Electronics,Electronic Games,240.0,144.0,5,COD
+B-25201,16-08-2018,Shiva,Delhi,Lucknow,Furniture,Furnishings,369.0,38.0,3,COD
+B-25202,04-05-2018,Aarav,Uttar Pradesh,Lucknow,Clothing,Trousers,228.0,-29.0,5,COD
+B-25203,03-12-2018,Madan Mohan,Gujarat,Indore,Clothing,Saree,155.0,1.0,7,EMI
+B-25204,23-08-2018,Meera,Uttar Pradesh,Lucknow,Clothing,Kurti,262.0,78.0,7,Debit Card
+B-25205,27-12-2018,Madan Mohan,Uttar Pradesh,Lucknow,Clothing,Trousers,346.0,-17.0,6,COD
+B-25206,14-05-2018,Kabir,Uttar Pradesh,Delhi,Clothing,Skirt,134.0,19.0,5,COD
+B-25207,26-08-2018,Shiva,Maharashtra,Lucknow,Electronics,Electronic Games,396.0,30.0,1,COD
+B-25208,14-05-2018,Shiva,Maharashtra,Lucknow,Clothing,Shirt,297.0,-18.0,4,UPI
+B-25209,13-09-2018,Aarav,Uttar Pradesh,Mumbai,Clothing,Kurti,406.0,-21.0,6,Debit Card
+B-25210,30-09-2018,Madan Mohan,Gujarat,Lucknow,Electronics,Electronic Games,258.0,,6,COD
+B-25211,28-04-2018,Madhav,Delhi,Lucknow,Clothing,Kurti,771.0,-127.0,6,Credit Card
+B-25212,09-12-2018,Shiva,Maharashtra,Amritsar,Clothing,Kurti,341.0,66.0,7,COD
+B-25213,09-11-2018,Kabir,Uttar Pradesh,Lucknow,Electronics,Electronic Games,437.0,-17.0,4,COD
+B-25214,23-11-2018,Madhav,Maharashtra,Mumbai,Electronics,Accessories,395.0,44.0,1,EMI
+B-25215,21-03-2018,Shiva,Delhi,Indore,Electronics,Phones,238.0,101.0,4,COD
+B-25216,20-09-2018,Diya,Gujarat,Surat,Clothing,Saree,321.0,12.0,3,COD
+B-25217,08-02-2018,Diya,Uttar Pradesh,Mumbai,Clothing,Shirt,174.0,54.0,6,UPI
+B-25218,08-02-2018,Shiva,Uttar Pradesh,Mumbai,Furniture,Furnishings,735.0,-270.0,6,COD
+B-25219,22-12-2018,Harivansh,Madhya Pradesh,Lucknow,Clothing,Shirt,367.0,-14.0,3,COD
+B-25220,25-02-2018,Harivansh,Madhya Pradesh,Lucknow,Clothing,Trousers,148.0,13.0,3,COD
+B-25221,12-11-2018,Shiva,Gujarat,Lucknow,Clothing,Kurti,630.0,353.0,2,COD
+B-25222,07-06-2018,Kabir,Delhi,Mumbai,Electronics,Electronic Games,247.0,-101.0,1,UPI
+B-25223,21-04-2018,Harivansh,Madhya Pradesh,Surat,Furniture,Furnishings,478.0,27.0,3,COD
+B-25224,27-01-2018,Meera,Madhya Pradesh,Indore,Clothing,Trousers,73.0,32.0,2,Debit Card
+B-25225,04-09-2018,Diya,Maharashtra,Surat,Furniture,Furnishings,557.0,-65.0,2,Credit Card
+B-25226,21-09-2018,Harivansh,Maharashtra,Delhi,Clothing,Shirt,357.0,10.0,7,COD
+B-25227,20-06-2018,Madan Mohan,,Indore,Clothing,Kurti,139.0,23.0,5,COD
+B-25228,23-10-2018,Madhav,Madhya Pradesh,Lucknow,Electronics,Accessories,353.0,45.0,4,COD
+B-25229,28-04-2018,Meera,Punjab,Mumbai,Clothing,Skirt,688.0,324.0,2,COD
+B-25230,21-07-2018,Aarav,Madhya Pradesh,Surat,Clothing,Skirt,178.0,34.0,6,COD
+B-25231,15-04-2018,Madan Mohan,Maharashtra,Indore,Clothing,Kurti,176.0,73.0,5,Credit Card
+B-25232,01-08-2018,Madan Mohan,Maharashtra,Lucknow,Furniture,Chairs,235.0,-2.0,4,COD
+B-25233,19-02-2018,Aarav,Madhya Pradesh,Mumbai,Clothing,Saree,283.0,-30.0,4,UPI
+B-25234,23-06-2018,Harivansh,Gujarat,Lucknow,Furniture,Chairs,498.0,12.0,4,Debit Card
+B-25235,20-07-2018,Madan Mohan,Madhya Pradesh,Lucknow,Electronics,Accessories,370.0,-78.0,6,Credit Card
+B-25236,23-07-2018,Madhav,Gujarat,Indore,Clothing,Kurti,235.0,47.0,6,COD
+B-25237,13-06-2018,Aarav,Gujarat,Amritsar,Electronics,Electronic Games,330.0,-5.0,4,COD
+B-25238,23-08-2018,Diya,Maharashtra,Indore,Clothing,Skirt,761.0,-67.0,5,EMI
+B-25239,06-07-2018,Shiva,Uttar Pradesh,Indore,Clothing,Saree,414.0,85.0,7,COD
+B-25240,14-04-2018,Madhav,Punjab,Delhi,Electronics,Printers,253.0,-52.0,3,Debit Card
+B-25241,20-03-2018,Madan Mohan,Madhya Pradesh,Indore,Electronics,Printers,230.0,63.0,7,Debit Card
+B-25242,25-08-2018,Kabir,Maharashtra,Lucknow,Clothing,Skirt,317.0,-13.0,5,UPI
+B-25243,09-12-2018,Madhav,Punjab,Surat,Clothing,Shirt,494.0,183.0,2,COD
+B-25244,02-10-2018,Madhav,Gujarat,Mumbai,Clothing,Trousers,160.0,-3.0,7,COD
+B-25245,22-08-2018,Harivansh,Uttar Pradesh,Delhi,Furniture,Furnishings,451.0,107.0,5,UPI
+B-25246,03-12-2018,Kabir,Uttar Pradesh,Mumbai,Clothing,Trousers,250.0,31.0,3,UPI
+B-25247,25-11-2018,Harivansh,Maharashtra,Mumbai,Clothing,Saree,276.0,73.0,2,Debit Card
+B-25248,04-07-2018,Aarav,Gujarat,Mumbai,Clothing,Saree,1152.0,124.0,7,Debit Card
+B-25249,09-02-2018,Meera,Madhya Pradesh,Mumbai,Clothing,Kurti,422.0,-142.0,6,EMI
+B-25250,20-08-2018,Diya,Maharashtra,Lucknow,Electronics,Phones,187.0,62.0,1,EMI
+B-25251,16-08-2018,Shiva,Delhi,Amritsar,Furniture,Chairs,356.0,21.0,5,Debit Card
+B-25252,12-04-2018,Madhav,Punjab,Amritsar,Clothing,Saree,510.0,141.0,1,COD
+B-25253,07-11-2018,Harivansh,Gujarat,Mumbai,Clothing,Kurti,425.0,107.0,3,COD
+B-25254,14-11-2018,Madhav,Maharashtra,Amritsar,Clothing,Kurti,48.0,-5.0,4,UPI
+B-25255,01-05-2018,Meera,Maharashtra,Delhi,Electronics,Printers,268.0,-40.0,2,UPI
+B-25256,24-06-2018,Madhav,Punjab,Delhi,Electronics,Printers,367.0,89.0,4,COD
+B-25257,13-03-2018,Harivansh,Punjab,Surat,Clothing,Saree,347.0,1.0,4,UPI
+B-25258,07-03-2018,Kabir,Uttar Pradesh,Lucknow,Clothing,Shirt,198.0,62.0,5,COD
+B-25259,07-04-2018,Shiva,Uttar Pradesh,Indore,Clothing,Shirt,429.0,15.0,6,COD
+B-25260,14-05-2018,Madan Mohan,Madhya Pradesh,Delhi,Clothing,Shirt,559.0,188.0,2,Credit Card
+B-25261,10-04-2018,Diya,Madhya Pradesh,Surat,Electronics,Phones,76.0,14.0,6,COD
+B-25262,25-02-2018,Aarav,Maharashtra,Surat,Clothing,Trousers,71.0,11.0,2,UPI
+B-25263,13-06-2018,Meera,Maharashtra,Indore,Clothing,Skirt,354.0,-5.0,1,UPI
+B-25264,16-08-2018,Shiva,Maharashtra,Amritsar,Furniture,Chairs,453.0,63.0,4,UPI
+B-25265,29-04-2018,Diya,Gujarat,Indore,Clothing,Trousers,178.0,67.0,3,COD
+B-25266,14-07-2018,Meera,Maharashtra,Surat,Clothing,Trousers,51.0,3.0,2,UPI
+B-25267,10-04-2018,Shiva,Maharashtra,Indore,Clothing,Trousers,271.0,58.0,3,COD
+B-25268,14-09-2018,Madan Mohan,Uttar Pradesh,Mumbai,Clothing,Saree,351.0,32.0,7,Debit Card
+B-25269,25-08-2018,Meera,Maharashtra,Amritsar,Clothing,Skirt,222.0,25.0,5,COD
+B-25270,17-12-2018,Madhav,Maharashtra,Delhi,Clothing,Saree,519.0,265.0,6,EMI
+B-25271,20-01-2018,Harivansh,Uttar Pradesh,Indore,Clothing,Shirt,337.0,128.0,2,Debit Card
+B-25272,08-11-2018,Aarav,Madhya Pradesh,Mumbai,Clothing,Trousers,165.0,16.0,1,COD
+B-25273,05-05-2018,Meera,Uttar Pradesh,Mumbai,Clothing,Shirt,177.0,24.0,3,COD
+B-25274,25-01-2018,Harivansh,Punjab,Indore,Electronics,Printers,276.0,-26.0,6,COD
+B-25275,09-09-2018,Kabir,Maharashtra,Amritsar,Clothing,Skirt,212.0,8.0,7,Debit Card
+B-25276,04-03-2018,Kabir,Punjab,Indore,Clothing,Saree,68.0,11.0,1,Debit Card
+B-25277,06-03-2018,Meera,Punjab,Mumbai,Clothing,Kurti,318.0,93.0,4,Debit Card
+B-25278,24-12-2018,Shiva,Gujarat,Amritsar,Furniture,Furnishings,181.0,48.0,3,Credit Card
+B-25279,22-03-2018,Madan Mohan,Uttar Pradesh,Amritsar,Furniture,Chairs,203.0,-40.0,6,UPI
+B-25280,19-07-2018,Aarav,Uttar Pradesh,Indore,Clothing,Saree,123.0,40.0,2,Debit Card
+B-25281,15-03-2018,Madhav,Uttar Pradesh,Delhi,Clothing,Trousers,700.0,40.0,4,UPI
+B-25282,15-02-2018,Kabir,Delhi,Delhi,Clothing,Skirt,405.0,-68.0,6,UPI
+B-25283,01-01-2018,Diya,Maharashtra,Delhi,Clothing,Saree,810.0,335.0,4,UPI
+B-25284,06-01-2018,Shiva,Punjab,Indore,Clothing,Shirt,221.0,99.0,6,Debit Card
+B-25285,22-06-2018,Aarav,Uttar Pradesh,Surat,Clothing,Shirt,421.0,,5,COD
+B-25286,08-06-2018,Diya,Gujarat,Amritsar,Clothing,Saree,321.0,83.0,5,COD
+B-25287,15-01-2018,Aarav,Madhya Pradesh,Surat,Clothing,Kurti,169.0,46.0,2,COD
+B-25288,08-05-2018,Kabir,Maharashtra,Amritsar,Clothing,Saree,220.0,94.0,7,EMI
+B-25289,10-04-2018,Meera,Madhya Pradesh,Mumbai,Clothing,Saree,405.0,106.0,2,UPI
+B-25290,28-07-2018,Meera,Madhya Pradesh,Delhi,Electronics,Phones,123.0,-31.0,7,COD
+B-25291,30-12-2018,Aarav,Madhya Pradesh,Amritsar,Clothing,Shirt,522.0,304.0,7,COD
+B-25292,10-09-2018,Diya,Madhya Pradesh,Delhi,Furniture,Bookcases,304.0,105.0,4,UPI
+B-25293,02-12-2018,Madan Mohan,Maharashtra,Amritsar,Clothing,Kurti,478.0,-23.0,7,Credit Card
+B-25294,12-03-2018,Harivansh,Uttar Pradesh,Lucknow,Furniture,Bookcases,352.0,-62.0,6,EMI
+B-25295,20-03-2018,Shiva,Madhya Pradesh,Amritsar,Furniture,Furnishings,77.0,,6,Credit Card
+B-25296,02-10-2018,Kabir,Punjab,Amritsar,Furniture,Bookcases,268.0,3.0,1,Credit Card
+B-25297,24-04-2018,Madhav,Maharashtra,Delhi,Electronics,Electronic Games,529.0,86.0,1,COD
+B-25298,06-11-2018,Aarav,Madhya Pradesh,Surat,Electronics,Accessories,301.0,80.0,1,COD
+B-25299,19-06-2018,Madhav,Maharashtra,Delhi,Electronics,Electronic Games,273.0,-17.0,1,UPI
+B-25300,15-03-2018,Shiva,Uttar Pradesh,Indore,Electronics,Accessories,300.0,-60.0,6,Debit Card
+B-25301,05-11-2018,Madhav,Madhya Pradesh,Delhi,Clothing,Kurti,64.0,11.0,2,COD
+B-25302,20-07-2018,Diya,Uttar Pradesh,Amritsar,Clothing,Trousers,565.0,-30.0,1,Debit Card
+B-25303,20-10-2018,Kabir,Punjab,Mumbai,Clothing,Kurti,42.0,5.0,7,COD
+B-25304,15-06-2018,Kabir,Maharashtra,Indore,Furniture,Bookcases,640.0,-164.0,2,COD
+B-25305,16-02-2018,Diya,Delhi,Lucknow,Clothing,Kurti,210.0,4.0,6,COD
+B-25306,06-09-2018,Madhav,,Lucknow,Clothing,Kurti,368.0,95.0,7,Credit Card
+B-25307,15-02-2018,Aarav,Maharashtra,Delhi,Electronics,Printers,59.0,14.0,4,Debit Card
+B-25308,31-08-2018,Harivansh,Madhya Pradesh,Lucknow,Clothing,Saree,450.0,-53.0,7,UPI
+B-25309,02-06-2018,Madan Mohan,Maharashtra,Delhi,Clothing,Skirt,401.0,-85.0,7,Credit Card
+B-25310,16-10-2018,Aarav,Uttar Pradesh,Mumbai,Clothing,Shirt,385.0,32.0,2,Credit Card
+B-25311,14-11-2018,Diya,Delhi,Indore,Clothing,Shirt,57.0,13.0,2,COD
+B-25312,29-05-2018,Harivansh,Delhi,Surat,Clothing,Skirt,153.0,28.0,3,Credit Card
+B-25313,18-11-2018,Kabir,Madhya Pradesh,Lucknow,Clothing,Kurti,353.0,-17.0,4,COD
+B-25314,10-02-2018,Shiva,Uttar Pradesh,Surat,Clothing,Shirt,555.0,86.0,6,UPI
+B-25315,09-02-2018,Meera,Madhya Pradesh,Delhi,Clothing,Skirt,136.0,62.0,2,COD
+B-25316,29-12-2018,Aarav,Maharashtra,Indore,Clothing,Trousers,139.0,18.0,2,COD
+B-25317,29-07-2018,Aarav,Maharashtra,Lucknow,Electronics,Phones,338.0,-111.0,3,UPI
+B-25318,14-06-2018,Diya,Uttar Pradesh,Amritsar,Clothing,Kurti,1088.0,142.0,2,COD
+B-25319,26-02-2018,Kabir,Punjab,Amritsar,Furniture,Bookcases,171.0,101.0,7,UPI
+B-25320,16-04-2018,Madhav,Maharashtra,Mumbai,Furniture,Bookcases,209.0,-51.0,3,Debit Card
+B-25321,08-09-2018,Aarav,Uttar Pradesh,Surat,Clothing,Saree,187.0,16.0,7,UPI
+B-25322,27-10-2018,Harivansh,Delhi,Lucknow,Clothing,Trousers,250.0,6.0,1,COD
+B-25323,01-12-2018,Shiva,Gujarat,Mumbai,Clothing,Trousers,583.0,61.0,1,COD
+B-25324,29-05-2018,Kabir,Uttar Pradesh,Delhi,Furniture,Tables,260.0,33.0,6,COD
+B-25325,15-06-2018,Kabir,Uttar Pradesh,Mumbai,Electronics,Electronic Games,1154.0,421.0,2,Credit Card
+B-25326,01-03-2018,Madan Mohan,Delhi,Indore,Electronics,Printers,293.0,30.0,1,Credit Card
+B-25327,31-01-2018,Shiva,Gujarat,Surat,Clothing,Kurti,619.0,247.0,5,COD
+B-25328,09-06-2018,Aarav,Maharashtra,Surat,Electronics,Phones,220.0,11.0,2,Debit Card
+B-25329,31-07-2018,Shiva,Punjab,Lucknow,Clothing,Skirt,104.0,-1.0,1,UPI
+B-25330,08-02-2018,Madhav,Maharashtra,Surat,Electronics,Accessories,259.0,-23.0,3,EMI
+B-25331,30-05-2018,Madan Mohan,Gujarat,Amritsar,Clothing,Skirt,389.0,-146.0,4,COD
+B-25332,23-08-2018,Shiva,Maharashtra,Lucknow,Electronics,Printers,154.0,23.0,4,UPI
+B-25333,23-10-2018,Aarav,Maharashtra,Indore,Furniture,Furnishings,558.0,331.0,5,UPI
+B-25334,09-12-2018,Meera,Maharashtra,Delhi,Clothing,Saree,194.0,38.0,1,COD
+B-25335,05-05-2018,Aarav,Madhya Pradesh,Mumbai,Clothing,Kurti,123.0,31.0,3,COD
+B-25336,23-05-2018,Shiva,Madhya Pradesh,Amritsar,Clothing,Shirt,1019.0,-24.0,3,COD
+B-25337,16-11-2018,Diya,Maharashtra,Lucknow,Electronics,Printers,148.0,3.0,3,UPI
+B-25338,11-09-2018,Kabir,Madhya Pradesh,Surat,Clothing,Skirt,190.0,62.0,4,Debit Card
+B-25339,10-04-2018,Shiva,Madhya Pradesh,Surat,Furniture,Furnishings,432.0,251.0,2,Debit Card
+B-25340,08-09-2018,Shiva,Delhi,Lucknow,Clothing,Shirt,214.0,97.0,5,COD
+B-25341,27-02-2018,Madhav,Gujarat,Amritsar,Furniture,Tables,126.0,35.0,7,Credit Card
+B-25342,13-06-2018,Kabir,Uttar Pradesh,Surat,Electronics,Printers,176.0,16.0,5,COD
+B-25343,22-04-2018,Kabir,Maharashtra,Amritsar,Clothing,Trousers,845.0,112.0,3,EMI
+B-25344,29-12-2018,Madhav,Maharashtra,Mumbai,Electronics,Accessories,398.0,-43.0,4,COD
+B-25345,13-01-2018,Madan Mohan,Punjab,Lucknow,Electronics,Electronic Games,451.0,-127.0,5,Credit Card
+B-25346,09-11-2018,Madan Mohan,Maharashtra,Amritsar,Furniture,Chairs,327.0,-66.0,6,EMI
+B-25347,13-04-2018,Meera,Madhya Pradesh,Surat,Clothing,Saree,365.0,34.0,3,Credit Card
+B-25348,14-01-2018,Harivansh,Punjab,Lucknow,Clothing,Saree,203.0,1.0,1,Credit Card
+B-25349,29-08-2018,Madhav,Punjab,Mumbai,Clothing,Trousers,299.0,-86.0,5,COD
+B-25350,05-09-2018,Madan Mohan,Madhya Pradesh,Indore,Clothing,Saree,54.0,4.0,5,Debit Card
+B-25351,21-02-2018,Aarav,Uttar Pradesh,Delhi,Clothing,Skirt,507.0,0.0,1,UPI
+B-25352,14-01-2018,Madhav,Madhya Pradesh,Delhi,Clothing,Saree,202.0,-43.0,5,COD
+B-25353,10-02-2018,Aarav,Delhi,Amritsar,Clothing,Trousers,111.0,-1.0,1,EMI
+B-25354,30-05-2018,Diya,Maharashtra,Mumbai,Clothing,Skirt,311.0,-0.0,5,COD
+B-25355,18-02-2018,Kabir,Maharashtra,Lucknow,Clothing,Shirt,238.0,-18.0,6,COD
+B-25356,14-09-2018,Harivansh,Uttar Pradesh,Indore,Electronics,Printers,496.0,155.0,1,EMI
+B-25357,29-01-2018,Madhav,Maharashtra,Amritsar,Electronics,Electronic Games,263.0,-104.0,6,COD
+B-25358,15-10-2018,Harivansh,Uttar Pradesh,Mumbai,Clothing,Saree,173.0,-72.0,1,COD
+B-25359,16-11-2018,Meera,Madhya Pradesh,Indore,Clothing,Shirt,268.0,22.0,2,COD
+B-25360,19-09-2018,Diya,Gujarat,Indore,Furniture,Furnishings,665.0,69.0,5,Debit Card
+B-25361,11-12-2018,Aarav,Gujarat,Mumbai,Clothing,Trousers,506.0,92.0,3,Credit Card
+B-25362,09-12-2018,Kabir,Madhya Pradesh,Delhi,Clothing,Saree,397.0,-22.0,7,COD
+B-25363,17-01-2018,Aarav,Gujarat,Delhi,Clothing,Skirt,521.0,,7,UPI
+B-25364,05-05-2018,Madhav,Maharashtra,Delhi,Electronics,Printers,418.0,33.0,7,UPI
+B-25365,05-10-2018,Aarav,Madhya Pradesh,Amritsar,Clothing,Trousers,140.0,-4.0,1,Debit Card
+B-25366,04-05-2018,Diya,Maharashtra,Lucknow,Electronics,Accessories,453.0,212.0,2,Debit Card
+B-25367,27-09-2018,Harivansh,Gujarat,Indore,Electronics,Phones,561.0,-1.0,2,EMI
+B-25368,10-10-2018,Aarav,Gujarat,Lucknow,Clothing,Shirt,582.0,39.0,5,COD
+B-25369,30-12-2018,Shiva,Punjab,Surat,Furniture,Bookcases,118.0,82.0,4,COD
+B-25370,01-05-2018,Harivansh,Gujarat,Delhi,Electronics,Electronic Games,190.0,6.0,6,UPI
+B-25371,07-05-2018,Madan Mohan,Punjab,Indore,Clothing,Kurti,170.0,37.0,2,COD
+B-25372,09-01-2018,Shiva,Maharashtra,Surat,Clothing,Kurti,218.0,53.0,2,UPI
+B-25373,15-04-2018,Madan Mohan,Punjab,Surat,Clothing,Shirt,370.0,97.0,5,COD
+B-25374,13-04-2018,Madan Mohan,Uttar Pradesh,Indore,Clothing,Trousers,306.0,47.0,5,COD
+B-25375,15-06-2018,Diya,Madhya Pradesh,Delhi,Clothing,Shirt,306.0,39.0,5,EMI
+B-25376,03-06-2018,Shiva,Uttar Pradesh,Delhi,Furniture,Chairs,95.0,10.0,3,COD
+B-25377,09-11-2018,Shiva,Madhya Pradesh,Indore,Clothing,Shirt,185.0,-12.0,4,UPI
+B-25378,10-10-2018,Kabir,Maharashtra,Mumbai,Clothing,Skirt,609.0,98.0,7,Debit Card
+B-25379,23-09-2018,Harivansh,Maharashtra,Surat,Electronics,Phones,560.0,329.0,5,COD
+B-25380,02-01-2018,Madan Mohan,Maharashtra,Delhi,Clothing,Skirt,260.0,99.0,7,COD
+B-25381,22-06-2018,Harivansh,Madhya Pradesh,Surat,Furniture,Furnishings,454.0,71.0,4,COD
+B-25382,24-09-2018,Meera,Gujarat,Lucknow,Electronics,Electronic Games,348.0,102.0,1,UPI
+B-25383,31-03-2018,Madhav,Uttar Pradesh,Delhi,Clothing,Skirt,487.0,-67.0,6,COD
+B-25384,05-06-2018,Kabir,Uttar Pradesh,Amritsar,Clothing,Trousers,467.0,7.0,4,UPI
+B-25385,23-09-2018,Madhav,Madhya Pradesh,Indore,Furniture,Bookcases,275.0,87.0,1,COD
+B-25386,18-10-2018,Madan Mohan,Madhya Pradesh,Delhi,Electronics,Electronic Games,399.0,180.0,1,COD
+B-25387,08-11-2018,Aarav,Maharashtra,Mumbai,Furniture,Chairs,364.0,-41.0,3,COD
+B-25388,06-06-2018,Kabir,Gujarat,Mumbai,Clothing,Kurti,280.0,-11.0,2,COD
+B-25389,26-05-2018,Madhav,Maharashtra,Amritsar,Furniture,Chairs,240.0,150.0,5,COD
+B-25390,20-05-2018,Madhav,Delhi,Mumbai,Electronics,Phones,772.0,80.0,5,EMI
+B-25391,02-09-2018,Meera,Delhi,Delhi,Clothing,Shirt,280.0,150.0,3,COD
+B-25392,03-06-2018,Madan Mohan,Uttar Pradesh,Delhi,Clothing,Trousers,436.0,57.0,1,UPI
+B-25393,27-05-2018,Madhav,Gujarat,Surat,Electronics,Printers,735.0,104.0,1,UPI
+B-25394,03-03-2018,Diya,Maharashtra,Delhi,Clothing,Kurti,399.0,1.0,7,Debit Card
+B-25395,24-06-2018,Harivansh,Gujarat,Surat,Clothing,Trousers,387.0,122.0,3,UPI
+B-25396,28-03-2018,Kabir,Delhi,Amritsar,Electronics,Phones,281.0,118.0,1,COD
+B-25397,11-07-2018,Meera,Gujarat,Surat,Clothing,Skirt,368.0,-66.0,5,UPI
+B-25398,21-11-2018,Kabir,Uttar Pradesh,Surat,Clothing,Saree,226.0,-2.0,7,COD
+B-25399,11-10-2018,Madan Mohan,Gujarat,Mumbai,Clothing,Trousers,1248.0,385.0,1,Debit Card
+B-25400,24-06-2018,Harivansh,Punjab,Indore,Clothing,Skirt,97.0,5.0,7,COD
+B-25401,23-12-2018,Shiva,Madhya Pradesh,Lucknow,Furniture,Furnishings,251.0,-11.0,6,Debit Card
+B-25402,24-12-2018,Madan Mohan,Gujarat,Delhi,Electronics,Printers,403.0,,2,UPI
+B-25403,12-06-2018,Meera,Delhi,Surat,Clothing,Skirt,387.0,138.0,6,Debit Card
+B-25404,06-10-2018,Diya,Madhya Pradesh,Surat,Furniture,Tables,226.0,-7.0,3,COD
+B-25405,05-05-2018,Meera,Punjab,Mumbai,Furniture,Tables,72.0,10.0,5,Debit Card
+B-25406,17-11-2018,Kabir,Madhya Pradesh,Indore,Clothing,Kurti,110.0,-24.0,1,Debit Card
+B-25407,17-05-2018,Diya,Uttar Pradesh,Mumbai,Electronics,Accessories,321.0,-46.0,2,UPI
+B-25408,05-04-2018,Harivansh,Maharashtra,Delhi,Clothing,Trousers,56.0,6.0,6,COD
+B-25409,18-02-2018,Harivansh,Maharashtra,Delhi,Furniture,Tables,422.0,37.0,6,COD
+B-25410,04-11-2018,Harivansh,Gujarat,Mumbai,Electronics,Printers,590.0,-95.0,1,COD
+B-25411,19-04-2018,Aarav,Madhya Pradesh,Amritsar,Electronics,Electronic Games,471.0,,2,Debit Card
+B-25412,24-10-2018,Madhav,Madhya Pradesh,Indore,Clothing,Kurti,533.0,-99.0,5,COD
+B-25413,01-02-2018,Meera,Maharashtra,Delhi,Furniture,Bookcases,58.0,11.0,7,Debit Card
+B-25414,02-07-2018,Madhav,Madhya Pradesh,Surat,Clothing,Shirt,232.0,-96.0,5,Debit Card
+B-25415,06-06-2018,Meera,Gujarat,Mumbai,Clothing,Shirt,132.0,-23.0,5,Debit Card
+B-25416,10-06-2018,Diya,Gujarat,Amritsar,Clothing,Trousers,81.0,-31.0,3,Debit Card
+B-25417,03-03-2018,Harivansh,Maharashtra,Amritsar,Electronics,Electronic Games,199.0,37.0,1,UPI
+B-25418,27-01-2018,Harivansh,Uttar Pradesh,Amritsar,Clothing,Saree,724.0,-268.0,6,UPI
+B-25419,07-05-2018,Shiva,Madhya Pradesh,Mumbai,Furniture,Tables,851.0,75.0,6,COD
+B-25420,21-06-2018,Madan Mohan,Uttar Pradesh,Lucknow,Electronics,Accessories,145.0,71.0,4,Credit Card
+B-25421,17-10-2018,Madan Mohan,Madhya Pradesh,Indore,Clothing,Trousers,294.0,147.0,4,EMI
+B-25422,18-06-2018,Aarav,Madhya Pradesh,Lucknow,Clothing,Trousers,365.0,-136.0,2,UPI
+B-25423,31-03-2018,Madhav,Madhya Pradesh,Amritsar,Clothing,Kurti,233.0,36.0,4,EMI
+B-25424,06-04-2018,Madhav,,Surat,Clothing,Trousers,617.0,-103.0,2,EMI
+B-25425,12-08-2018,Diya,Madhya Pradesh,Surat,Electronics,Electronic Games,201.0,-44.0,3,UPI
+B-25426,09-06-2018,Meera,Madhya Pradesh,Lucknow,Clothing,Shirt,177.0,9.0,1,Debit Card
+B-25427,25-11-2018,Madan Mohan,Gujarat,Amritsar,Furniture,Furnishings,151.0,58.0,5,UPI
+B-25428,10-06-2018,Meera,Delhi,Amritsar,Clothing,Trousers,232.0,53.0,2,COD
+B-25429,26-07-2018,Madan Mohan,Madhya Pradesh,Surat,Electronics,Phones,32.0,-3.0,6,COD
+B-25430,24-01-2018,Madan Mohan,Gujarat,Surat,Furniture,Bookcases,240.0,62.0,4,UPI
+B-25431,12-03-2018,Harivansh,Gujarat,Delhi,Electronics,Electronic Games,307.0,-148.0,7,Credit Card
+B-25432,07-11-2018,Shiva,Maharashtra,Mumbai,Electronics,Printers,320.0,-35.0,2,COD
+B-25433,06-05-2018,Shiva,Uttar Pradesh,Indore,Electronics,Phones,126.0,-16.0,2,Credit Card
+B-25434,03-06-2018,Diya,Maharashtra,Surat,Clothing,Kurti,316.0,31.0,2,Debit Card
+B-25435,04-08-2018,Madhav,Delhi,Indore,Clothing,Trousers,311.0,9.0,5,Debit Card
+B-25436,22-01-2018,Madhav,Maharashtra,Indore,Clothing,Kurti,316.0,14.0,1,COD
+B-25437,04-07-2018,Shiva,Delhi,Amritsar,Clothing,Trousers,477.0,17.0,5,UPI
+B-25438,07-05-2018,Harivansh,Maharashtra,Lucknow,Electronics,Electronic Games,122.0,10.0,6,COD
+B-25439,24-02-2018,Madhav,Madhya Pradesh,Amritsar,Electronics,Electronic Games,235.0,51.0,5,COD
+B-25440,02-06-2018,Diya,Punjab,Indore,Furniture,Furnishings,68.0,8.0,1,COD
+B-25441,13-06-2018,Meera,Madhya Pradesh,Lucknow,Clothing,Saree,449.0,4.0,4,COD
+B-25442,10-03-2018,Aarav,Gujarat,Lucknow,Electronics,Phones,137.0,25.0,4,COD
+B-25443,18-07-2018,Madhav,Punjab,Lucknow,Clothing,Kurti,526.0,151.0,3,UPI
+B-25444,30-09-2018,Meera,Gujarat,Lucknow,Clothing,Skirt,538.0,-32.0,4,UPI
+B-25445,08-04-2018,Aarav,Maharashtra,Indore,Electronics,Accessories,252.0,16.0,6,COD
+B-25446,19-12-2018,Diya,Gujarat,Surat,Furniture,Tables,243.0,90.0,6,Credit Card
+B-25447,12-08-2018,Madhav,Maharashtra,Indore,Clothing,Shirt,90.0,-18.0,3,UPI
+B-25448,10-10-2018,Aarav,Madhya Pradesh,Lucknow,Clothing,Trousers,288.0,153.0,3,EMI
+B-25449,26-01-2018,Harivansh,Gujarat,Amritsar,Clothing,Shirt,475.0,-121.0,2,UPI
+B-25450,08-10-2018,Diya,Delhi,Lucknow,Clothing,Shirt,343.0,-2.0,3,COD
+B-25451,03-05-2018,Madhav,Uttar Pradesh,Mumbai,Furniture,Bookcases,665.0,-105.0,4,EMI
+B-25452,17-09-2018,Meera,Madhya Pradesh,Mumbai,Electronics,Phones,216.0,135.0,5,Credit Card
+B-25453,21-10-2018,Harivansh,Gujarat,Lucknow,Clothing,Kurti,216.0,-10.0,2,UPI
+B-25454,02-04-2018,Diya,Delhi,Delhi,Clothing,Skirt,144.0,-7.0,2,UPI
+B-25455,05-04-2018,Madhav,Madhya Pradesh,Amritsar,Clothing,Skirt,952.0,-12.0,1,UPI
+B-25456,22-01-2018,Diya,Gujarat,Mumbai,Furniture,Furnishings,90.0,9.0,1,UPI
+B-25457,09-08-2018,Shiva,Maharashtra,Delhi,Clothing,Saree,453.0,-1.0,1,Debit Card
+B-25458,10-10-2018,Meera,Maharashtra,Indore,Electronics,Electronic Games,481.0,23.0,2,UPI
+B-25459,30-05-2018,Diya,Uttar Pradesh,Lucknow,Electronics,Phones,468.0,-375.0,5,COD
+B-25460,28-02-2018,Madan Mohan,Punjab,Lucknow,Clothing,Shirt,153.0,14.0,6,COD
+B-25461,26-04-2018,Harivansh,Maharashtra,Indore,Clothing,Skirt,252.0,21.0,7,COD
+B-25462,28-05-2018,Aarav,Maharashtra,Mumbai,Furniture,Furnishings,411.0,140.0,4,COD
+B-25463,01-12-2018,Shiva,Maharashtra,Mumbai,Clothing,Saree,180.0,73.0,4,COD
+B-25464,15-02-2018,Harivansh,Gujarat,Delhi,Clothing,Kurti,227.0,8.0,7,Credit Card
+B-25465,06-05-2018,Aarav,Maharashtra,Indore,Electronics,Accessories,182.0,52.0,2,COD
+B-25466,21-08-2018,Madhav,Madhya Pradesh,Indore,Electronics,Accessories,301.0,-59.0,5,COD
+B-25467,28-03-2018,Madhav,Punjab,Mumbai,Furniture,Tables,288.0,78.0,6,COD
+B-25468,19-11-2018,Harivansh,Maharashtra,Mumbai,Clothing,Shirt,742.0,-47.0,4,UPI
+B-25469,28-11-2018,Madan Mohan,Uttar Pradesh,Mumbai,Clothing,Skirt,417.0,-90.0,2,UPI
+B-25470,19-05-2018,Madhav,Madhya Pradesh,Lucknow,Clothing,Kurti,107.0,4.0,5,UPI
+B-25471,30-09-2018,Harivansh,Gujarat,Mumbai,Clothing,Trousers,113.0,49.0,7,EMI
+B-25472,03-10-2018,Shiva,Madhya Pradesh,Indore,Clothing,Trousers,458.0,57.0,2,EMI
+B-25473,06-09-2018,Madhav,Madhya Pradesh,Indore,Clothing,Skirt,286.0,130.0,4,Credit Card
+B-25474,10-03-2018,Madhav,Maharashtra,Indore,Clothing,Kurti,917.0,-98.0,1,Credit Card
+B-25475,19-01-2018,Shiva,Delhi,Mumbai,Clothing,Kurti,915.0,313.0,2,COD
+B-25476,07-05-2018,Harivansh,Gujarat,Mumbai,Clothing,Shirt,143.0,-12.0,6,UPI
+B-25477,17-02-2018,Meera,Maharashtra,Amritsar,Clothing,Shirt,347.0,47.0,4,COD
+B-25478,17-04-2018,Shiva,Madhya Pradesh,Surat,Electronics,Phones,114.0,15.0,2,Credit Card
+B-25479,21-08-2018,Meera,Gujarat,Mumbai,Clothing,Trousers,453.0,111.0,3,COD
+B-25480,03-08-2018,Meera,Maharashtra,Indore,Clothing,Trousers,811.0,116.0,1,COD
+B-25481,18-03-2018,Meera,Maharashtra,Lucknow,Clothing,Kurti,315.0,-33.0,6,COD
+B-25482,07-01-2018,Aarav,Uttar Pradesh,Amritsar,Clothing,Trousers,211.0,63.0,7,UPI
+B-25483,24-03-2018,Shiva,Madhya Pradesh,Amritsar,Clothing,Kurti,371.0,190.0,1,Debit Card
+B-25484,16-06-2018,Diya,Maharashtra,Surat,Clothing,Shirt,515.0,-34.0,2,COD
+B-25485,12-10-2018,Harivansh,Madhya Pradesh,Mumbai,Clothing,Saree,517.0,-196.0,6,UPI
+B-25486,14-05-2018,Kabir,Maharashtra,Lucknow,Clothing,Kurti,212.0,43.0,7,COD
+B-25487,15-04-2018,Madan Mohan,Uttar Pradesh,Lucknow,Clothing,Skirt,176.0,-0.0,6,Credit Card
+B-25488,21-07-2018,Harivansh,Delhi,Delhi,Clothing,Shirt,334.0,16.0,6,COD
+B-25489,27-01-2018,Madhav,Uttar Pradesh,Amritsar,Clothing,Trousers,223.0,49.0,7,COD
+B-25490,24-03-2018,Madhav,Maharashtra,Indore,Electronics,Printers,617.0,-21.0,3,UPI
+B-25491,14-01-2018,Harivansh,Gujarat,Delhi,Electronics,Accessories,221.0,3.0,7,UPI
+B-25492,11-07-2018,Diya,Maharashtra,Indore,Electronics,Phones,299.0,16.0,7,Credit Card
+B-25493,11-06-2018,Harivansh,Delhi,Indore,Clothing,Trousers,365.0,163.0,2,UPI
+B-25494,01-08-2018,Kabir,Madhya Pradesh,Indore,Electronics,Electronic Games,92.0,8.0,1,EMI
+B-25495,14-08-2018,Shiva,Gujarat,Surat,Clothing,Shirt,188.0,-43.0,4,COD
+B-25496,25-05-2018,Diya,Maharashtra,Lucknow,Clothing,Saree,891.0,-195.0,6,COD
+B-25497,14-11-2018,Madan Mohan,Maharashtra,Surat,Clothing,Shirt,501.0,58.0,6,EMI
+B-25498,02-12-2018,Madhav,Madhya Pradesh,Surat,Clothing,Saree,219.0,-44.0,1,COD
+B-25499,10-02-2018,Madhav,Maharashtra,Lucknow,Clothing,Shirt,454.0,-141.0,3,Credit Card
+B-25500,02-12-2018,Diya,Maharashtra,Amritsar,Electronics,Printers,611.0,146.0,6,COD
+B-25501,13-03-2018,Diya,Delhi,Mumbai,Furniture,Chairs,244.0,61.0,1,UPI
+B-25502,01-04-2018,Madan Mohan,Gujarat,Amritsar,Furniture,Tables,486.0,-6.0,6,COD
+B-25503,13-07-2018,Madan Mohan,Maharashtra,Mumbai,Clothing,Kurti,441.0,68.0,3,UPI
+B-25504,11-01-2018,Meera,Gujarat,Lucknow,Clothing,Saree,116.0,15.0,1,Credit Card
+B-25505,13-05-2018,Kabir,Gujarat,Surat,Electronics,Electronic Games,244.0,56.0,2,COD
+B-25506,13-03-2018,Shiva,Gujarat,Surat,Clothing,Skirt,755.0,175.0,6,COD
+B-25507,26-06-2018,Madhav,Delhi,Indore,Electronics,Electronic Games,875.0,-500.0,7,COD
+B-25508,25-10-2018,Madan Mohan,Delhi,Amritsar,Clothing,Saree,504.0,10.0,1,COD
+B-25509,04-12-2018,Aarav,Uttar Pradesh,Mumbai,Clothing,Kurti,183.0,38.0,4,COD
+B-25510,19-03-2018,Aarav,Uttar Pradesh,Surat,Clothing,Skirt,46.0,-1.0,2,EMI
+B-25511,18-07-2018,Madhav,Punjab,Delhi,Furniture,Chairs,165.0,15.0,5,COD
+B-25512,23-06-2018,Harivansh,Maharashtra,Indore,Clothing,Saree,104.0,28.0,6,COD
+B-25513,01-06-2018,Shiva,Madhya Pradesh,Amritsar,Clothing,Saree,791.0,79.0,7,UPI
+B-25514,19-08-2018,Kabir,Maharashtra,Surat,Clothing,Kurti,67.0,31.0,3,COD
+B-25515,28-12-2018,Madhav,Punjab,Mumbai,Clothing,Skirt,118.0,43.0,3,COD
+B-25516,28-05-2018,Shiva,Madhya Pradesh,Mumbai,Clothing,Saree,330.0,17.0,3,Debit Card
+B-25517,24-01-2018,Madhav,Delhi,Mumbai,Electronics,Electronic Games,284.0,9.0,6,UPI
+B-25518,01-12-2018,Madhav,Gujarat,Lucknow,Clothing,Trousers,731.0,-462.0,4,Credit Card
+B-25519,07-12-2018,Aarav,Punjab,Lucknow,Electronics,Electronic Games,423.0,-1.0,1,COD
+B-25520,28-04-2018,Madan Mohan,Maharashtra,Surat,Furniture,Furnishings,257.0,-66.0,7,UPI
+B-25521,03-07-2018,Madan Mohan,Gujarat,Surat,Clothing,Kurti,625.0,85.0,1,Credit Card
+B-25522,11-11-2018,Meera,Gujarat,Mumbai,Clothing,Skirt,214.0,25.0,7,Credit Card
+B-25523,03-07-2018,Madhav,Maharashtra,Lucknow,Clothing,Saree,769.0,,2,EMI
+B-25524,25-06-2018,Madhav,Delhi,Surat,Clothing,Kurti,149.0,64.0,4,COD
+B-25525,03-12-2018,Meera,Madhya Pradesh,Amritsar,Clothing,Kurti,277.0,20.0,3,EMI
+B-25526,30-10-2018,Aarav,Uttar Pradesh,Indore,Furniture,Bookcases,51.0,33.0,5,Credit Card
+B-25527,05-07-2018,Harivansh,Madhya Pradesh,Mumbai,Furniture,Bookcases,521.0,72.0,3,Credit Card
+B-25528,28-02-2018,Shiva,Maharashtra,Mumbai,Electronics,Printers,317.0,-78.0,3,Debit Card
+B-25529,10-06-2018,Aarav,Maharashtra,Lucknow,Clothing,Saree,771.0,-47.0,4,EMI
+B-25530,04-09-2018,Madan Mohan,Maharashtra,Lucknow,Electronics,Phones,238.0,-3.0,7,UPI
+B-25531,10-04-2018,Aarav,Maharashtra,Lucknow,Electronics,Printers,91.0,21.0,2,Debit Card
+B-25532,16-07-2018,Diya,Uttar Pradesh,Mumbai,Clothing,Saree,388.0,-61.0,2,Debit Card
+B-25533,29-08-2018,Madan Mohan,Madhya Pradesh,Lucknow,Electronics,Electronic Games,192.0,1.0,1,Debit Card
+B-25534,01-02-2018,Kabir,Maharashtra,Indore,Clothing,Saree,473.0,19.0,6,Debit Card
+B-25535,27-07-2018,Shiva,Delhi,Lucknow,Clothing,Saree,151.0,-5.0,5,COD
+B-25536,27-09-2018,Meera,Delhi,Mumbai,Clothing,Saree,684.0,193.0,5,COD
+B-25537,20-03-2018,Harivansh,Uttar Pradesh,Surat,Clothing,Saree,299.0,72.0,1,COD
+B-25538,20-07-2018,Madan Mohan,Punjab,Lucknow,Clothing,Shirt,258.0,96.0,6,Debit Card
+B-25539,16-09-2018,Diya,Madhya Pradesh,Indore,Electronics,Electronic Games,655.0,-2.0,6,Debit Card
+B-25540,17-01-2018,Meera,Gujarat,Amritsar,Furniture,Chairs,526.0,200.0,7,Credit Card
+B-25541,24-08-2018,Madhav,Maharashtra,Surat,Clothing,Shirt,167.0,-44.0,7,Credit Card
+B-25542,05-04-2018,Meera,Delhi,Mumbai,Electronics,Printers,516.0,-138.0,2,UPI
+B-25543,26-05-2018,Madhav,Punjab,Mumbai,Furniture,Furnishings,448.0,-100.0,5,COD
+B-25544,25-08-2018,Shiva,Gujarat,Mumbai,Clothing,Saree,268.0,22.0,3,UPI
+B-25545,02-01-2018,Madan Mohan,Uttar Pradesh,Delhi,Clothing,Trousers,489.0,186.0,5,Credit Card
+B-25546,07-01-2018,Shiva,Uttar Pradesh,Lucknow,Clothing,Shirt,682.0,-48.0,3,UPI
+B-25547,13-06-2018,Meera,Madhya Pradesh,Lucknow,Clothing,Skirt,274.0,-11.0,5,Credit Card
+B-25548,13-12-2018,Diya,Delhi,Delhi,Electronics,Phones,275.0,7.0,7,EMI
+B-25549,03-01-2018,Kabir,Gujarat,Delhi,Clothing,Trousers,264.0,59.0,5,COD
+B-25550,15-10-2018,Madan Mohan,Punjab,Mumbai,Clothing,Shirt,162.0,-6.0,7,Debit Card
+B-25551,28-01-2018,Meera,Madhya Pradesh,Mumbai,Clothing,Shirt,272.0,-15.0,7,UPI
+B-25552,28-06-2018,Shiva,Maharashtra,Surat,Clothing,Skirt,251.0,-64.0,1,UPI
+B-25553,07-06-2018,Diya,Uttar Pradesh,Amritsar,Furniture,Chairs,241.0,-15.0,7,COD
+B-25554,20-06-2018,Diya,Maharashtra,Amritsar,Clothing,Shirt,238.0,89.0,6,COD
+B-25555,30-01-2018,Diya,Maharashtra,Amritsar,Clothing,Shirt,118.0,12.0,3,COD
+B-25556,03-10-2018,Aarav,Madhya Pradesh,Lucknow,Clothing,Trousers,561.0,-59.0,5,UPI
+B-25557,11-04-2018,Shiva,Delhi,Surat,Clothing,Kurti,187.0,73.0,5,COD
+B-25558,09-10-2018,Diya,Maharashtra,Amritsar,Clothing,Saree,707.0,-47.0,6,COD
+B-25559,28-08-2018,Meera,Maharashtra,Amritsar,Clothing,Shirt,139.0,60.0,6,UPI
+B-25560,21-07-2018,Shiva,Maharashtra,Mumbai,Clothing,Saree,811.0,349.0,1,COD
+B-25561,23-04-2018,Aarav,Gujarat,Mumbai,Clothing,Saree,222.0,21.0,1,Credit Card
+B-25562,27-08-2018,Madhav,Delhi,Lucknow,Furniture,Tables,520.0,-153.0,2,UPI
+B-25563,31-12-2018,Madan Mohan,Maharashtra,Delhi,Electronics,Electronic Games,315.0,205.0,4,COD
+B-25564,03-12-2018,Kabir,Maharashtra,Amritsar,Electronics,Electronic Games,106.0,19.0,6,EMI
+B-25565,01-12-2018,Diya,Uttar Pradesh,Indore,Electronics,Phones,110.0,-0.0,5,Credit Card
+B-25566,22-03-2018,Madhav,Maharashtra,Surat,Electronics,Phones,176.0,56.0,1,Debit Card
+B-25567,02-08-2018,Aarav,Uttar Pradesh,Amritsar,Clothing,Saree,213.0,54.0,6,Debit Card
+B-25568,26-05-2018,Kabir,Madhya Pradesh,Amritsar,Clothing,Trousers,280.0,114.0,4,COD
+B-25569,19-12-2018,Harivansh,Punjab,Indore,Clothing,Kurti,363.0,-31.0,3,Debit Card
+B-25570,13-12-2018,Harivansh,Maharashtra,Indore,Clothing,Trousers,255.0,41.0,6,COD
+B-25571,13-11-2018,Shiva,Delhi,Indore,Furniture,Furnishings,350.0,-76.0,3,UPI
+B-25572,01-03-2018,Diya,Maharashtra,Surat,Clothing,Trousers,389.0,96.0,5,COD
+B-25573,27-04-2018,Madan Mohan,Punjab,Surat,Electronics,Phones,247.0,18.0,2,Debit Card
+B-25574,17-09-2018,Kabir,Punjab,Lucknow,Furniture,Furnishings,443.0,67.0,3,COD
+B-25575,01-10-2018,Kabir,Delhi,Mumbai,Clothing,Trousers,510.0,22.0,4,COD
+B-25576,08-05-2018,Aarav,Madhya Pradesh,Delhi,Furniture,Chairs,396.0,7.0,5,COD
+B-25577,19-02-2018,Shiva,Maharashtra,Surat,Clothing,Skirt,411.0,-56.0,7,Debit Card
+B-25578,19-02-2018,Harivansh,Gujarat,Lucknow,Furniture,Furnishings,329.0,91.0,3,COD
+B-25579,07-09-2018,Kabir,Delhi,Indore,Clothing,Saree,593.0,268.0,7,UPI
+B-25580,15-06-2018,Meera,Maharashtra,Delhi,Clothing,Skirt,285.0,-17.0,6,COD
+B-25581,29-06-2018,Shiva,Madhya Pradesh,Delhi,Clothing,Trousers,178.0,39.0,3,Debit Card
+B-25582,25-10-2018,Aarav,Madhya Pradesh,Delhi,Clothing,Kurti,291.0,55.0,1,COD
+B-25583,07-01-2018,Kabir,Gujarat,Amritsar,Clothing,Kurti,107.0,9.0,2,EMI
+B-25584,03-10-2018,Diya,Delhi,Indore,Furniture,Furnishings,98.0,-30.0,5,COD
+B-25585,11-04-2018,Madhav,Uttar Pradesh,Delhi,Electronics,Printers,512.0,-126.0,6,COD
+B-25586,06-12-2018,Diya,Uttar Pradesh,Amritsar,Clothing,Shirt,714.0,-82.0,5,COD
+B-25587,15-12-2018,Meera,Maharashtra,Indore,Clothing,Trousers,227.0,-103.0,6,COD
+B-25588,03-07-2018,Kabir,Madhya Pradesh,Indore,Clothing,Trousers,515.0,222.0,1,UPI
+B-25589,26-04-2018,Shiva,Maharashtra,Mumbai,Clothing,Skirt,60.0,10.0,4,COD
+B-25590,27-03-2018,Aarav,Gujarat,Lucknow,Furniture,Bookcases,397.0,29.0,7,Credit Card
+B-25591,08-03-2018,Madan Mohan,Madhya Pradesh,Mumbai,Clothing,Kurti,285.0,-133.0,3,UPI
+B-25592,31-12-2018,Diya,Madhya Pradesh,Surat,Clothing,Skirt,790.0,-297.0,7,COD
+B-25593,10-03-2018,Madhav,Maharashtra,Mumbai,Clothing,Shirt,258.0,20.0,1,UPI
+B-25594,12-06-2018,Madan Mohan,Maharashtra,Surat,Clothing,Kurti,131.0,75.0,7,COD
+B-25595,24-06-2018,Madan Mohan,Uttar Pradesh,Delhi,Clothing,Kurti,87.0,-8.0,6,COD
+B-25596,05-09-2018,Madan Mohan,Maharashtra,Amritsar,Electronics,Phones,290.0,86.0,5,COD
+B-25597,04-11-2018,Madan Mohan,Maharashtra,Lucknow,Electronics,Accessories,328.0,-13.0,5,COD
+B-25598,23-07-2018,Harivansh,Delhi,Lucknow,Furniture,Tables,247.0,23.0,7,COD
+B-25599,04-10-2018,Diya,Madhya Pradesh,Indore,Clothing,Trousers,523.0,201.0,3,EMI
+B-25600,26-07-2018,Shiva,Madhya Pradesh,Delhi,Clothing,Shirt,665.0,-4.0,2,Debit Card
+B-25601,09-06-2018,Meera,Madhya Pradesh,Indore,Electronics,Accessories,225.0,-21.0,7,EMI
+B-25602,27-02-2018,Madhav,Gujarat,Mumbai,Furniture,Bookcases,69.0,30.0,1,COD
+B-25603,18-03-2018,Diya,Madhya Pradesh,Amritsar,Electronics,Accessories,351.0,32.0,5,Credit Card
+B-25604,07-06-2018,Madhav,Delhi,Surat,Furniture,Furnishings,600.0,212.0,2,COD
+B-25605,17-01-2018,Aarav,Punjab,Mumbai,Electronics,Printers,226.0,-21.0,7,COD
+B-25606,26-04-2018,Shiva,Uttar Pradesh,Delhi,Furniture,Tables,411.0,177.0,7,Credit Card
+B-25607,18-06-2018,Shiva,Madhya Pradesh,Indore,Clothing,Trousers,124.0,18.0,4,COD
+B-25608,22-06-2018,Diya,Delhi,Indore,Electronics,Accessories,345.0,65.0,4,COD
+B-25609,25-10-2018,Kabir,Madhya Pradesh,Lucknow,Clothing,Trousers,416.0,47.0,4,Credit Card
+B-25610,20-12-2018,Madan Mohan,Madhya Pradesh,Surat,Clothing,Shirt,352.0,-16.0,3,UPI
+B-25611,24-09-2018,Kabir,Uttar Pradesh,Mumbai,Electronics,Accessories,923.0,,7,UPI
+B-25612,30-01-2018,Madhav,Madhya Pradesh,Lucknow,Furniture,Chairs,709.0,-22.0,3,COD
+B-25613,30-05-2018,Madan Mohan,Maharashtra,Amritsar,Furniture,Bookcases,461.0,147.0,7,COD
+B-25614,24-09-2018,Madan Mohan,Madhya Pradesh,Lucknow,Clothing,Trousers,564.0,16.0,5,EMI
+B-25615,06-08-2018,Meera,Maharashtra,Mumbai,Electronics,Phones,344.0,-101.0,7,COD
+B-25616,17-06-2018,Harivansh,Madhya Pradesh,Lucknow,Electronics,Printers,277.0,-94.0,5,COD
+B-25617,09-06-2018,Shiva,Uttar Pradesh,Surat,Clothing,Shirt,209.0,-74.0,6,COD
+B-25618,29-05-2018,Shiva,Punjab,Amritsar,Clothing,Shirt,122.0,29.0,4,EMI
+B-25619,31-07-2018,Kabir,Maharashtra,Delhi,Clothing,Saree,730.0,-152.0,4,Debit Card
+B-25620,07-03-2018,Shiva,Uttar Pradesh,Mumbai,Electronics,Electronic Games,946.0,147.0,2,UPI
+B-25621,08-07-2018,Meera,Madhya Pradesh,Surat,Clothing,Kurti,295.0,34.0,2,EMI
+B-25622,17-03-2018,Diya,Maharashtra,Surat,Furniture,Tables,299.0,19.0,1,COD
+B-25623,06-09-2018,Diya,Maharashtra,Delhi,Clothing,Shirt,427.0,81.0,3,Credit Card
+B-25624,12-11-2018,Kabir,Maharashtra,Amritsar,Furniture,Furnishings,259.0,31.0,7,COD
+B-25625,05-07-2018,Madhav,Maharashtra,Surat,Clothing,Trousers,134.0,-80.0,7,COD
+B-25626,22-05-2018,Shiva,Maharashtra,Indore,Electronics,Electronic Games,105.0,-0.0,5,COD
+B-25627,10-12-2018,Aarav,Madhya Pradesh,Lucknow,Clothing,Kurti,925.0,172.0,3,EMI
+B-25628,29-08-2018,Madhav,Uttar Pradesh,Delhi,Clothing,Skirt,77.0,38.0,4,EMI
+B-25629,06-06-2018,Harivansh,Maharashtra,Lucknow,Electronics,Electronic Games,361.0,181.0,6,UPI
+B-25630,11-01-2018,Madhav,Maharashtra,Delhi,Furniture,Tables,85.0,-22.0,1,COD
+B-25631,06-01-2018,Kabir,Maharashtra,Surat,Electronics,Accessories,268.0,-2.0,7,COD
+B-25632,22-03-2018,Diya,Uttar Pradesh,Mumbai,Clothing,Saree,224.0,-70.0,7,UPI
+B-25633,28-03-2018,Madan Mohan,Madhya Pradesh,Delhi,Clothing,Trousers,96.0,44.0,7,COD
+B-25634,21-09-2018,Diya,Uttar Pradesh,Mumbai,Clothing,Skirt,437.0,146.0,1,COD
+B-25635,02-07-2018,Diya,Maharashtra,Delhi,Clothing,Shirt,127.0,21.0,7,Debit Card
+B-25636,31-12-2018,Kabir,Maharashtra,Lucknow,Electronics,Accessories,87.0,11.0,5,UPI
+B-25637,17-07-2018,Meera,Punjab,Indore,Electronics,Phones,470.0,200.0,4,EMI
+B-25638,26-11-2018,Meera,Maharashtra,Amritsar,Electronics,Printers,225.0,86.0,2,UPI
+B-25639,21-07-2018,Madhav,Maharashtra,Indore,Furniture,Chairs,164.0,61.0,4,COD
+B-25640,11-05-2018,Kabir,Maharashtra,Mumbai,Electronics,Accessories,489.0,95.0,3,UPI
+B-25641,18-09-2018,Shiva,Punjab,Lucknow,Electronics,Electronic Games,122.0,-1.0,7,COD
+B-25642,14-06-2018,Shiva,Uttar Pradesh,Surat,Clothing,Skirt,71.0,19.0,3,UPI
+B-25643,11-04-2018,Diya,Uttar Pradesh,Mumbai,Clothing,Shirt,637.0,181.0,2,Debit Card
+B-25644,22-06-2018,Aarav,Punjab,Lucknow,Clothing,Skirt,844.0,27.0,7,COD
+B-25645,31-08-2018,Shiva,Maharashtra,Lucknow,Furniture,Chairs,263.0,-2.0,2,COD
+B-25646,18-05-2018,Meera,Punjab,Amritsar,Clothing,Trousers,261.0,95.0,7,Credit Card
+B-25647,14-09-2018,Madhav,Maharashtra,Mumbai,Clothing,Trousers,507.0,251.0,7,UPI
+B-25648,24-12-2018,Harivansh,Uttar Pradesh,Mumbai,Electronics,Electronic Games,596.0,-64.0,3,UPI
+B-25649,31-05-2018,Harivansh,Madhya Pradesh,Delhi,Clothing,Trousers,133.0,2.0,5,Debit Card
+B-25650,18-04-2018,Kabir,Madhya Pradesh,Indore,Clothing,Saree,233.0,39.0,6,UPI
+B-25651,27-05-2018,Shiva,Punjab,Surat,Furniture,Bookcases,342.0,69.0,4,COD
+B-25652,02-11-2018,Shiva,Maharashtra,Indore,Electronics,Phones,488.0,-25.0,5,Credit Card
+B-25653,07-03-2018,Diya,Punjab,Delhi,Clothing,Shirt,455.0,251.0,1,EMI
+B-25654,22-12-2018,Shiva,Madhya Pradesh,Mumbai,Furniture,Chairs,407.0,76.0,4,COD
+B-25655,01-06-2018,Aarav,Uttar Pradesh,Surat,Clothing,Shirt,595.0,127.0,4,COD
+B-25656,04-11-2018,Harivansh,Punjab,Delhi,Furniture,Chairs,276.0,143.0,4,Debit Card
+B-25657,15-10-2018,Madhav,Maharashtra,Mumbai,Clothing,Skirt,734.0,-24.0,7,UPI
+B-25658,14-10-2018,Meera,Punjab,Indore,Clothing,Kurti,192.0,11.0,6,COD
+B-25659,28-11-2018,Shiva,Uttar Pradesh,Mumbai,Clothing,Shirt,459.0,-107.0,5,UPI
+B-25660,09-03-2018,Madhav,Delhi,Mumbai,Clothing,Shirt,213.0,8.0,3,Debit Card
+B-25661,05-08-2018,Madan Mohan,Maharashtra,Surat,Furniture,Tables,266.0,-78.0,3,UPI
+B-25662,06-02-2018,Madan Mohan,Uttar Pradesh,Lucknow,Clothing,Skirt,296.0,79.0,1,COD
+B-25663,20-04-2018,Madan Mohan,Delhi,Surat,Clothing,Skirt,204.0,,4,COD
+B-25664,15-01-2018,Madan Mohan,Madhya Pradesh,Indore,Clothing,Shirt,612.0,7.0,2,COD
+B-25665,07-09-2018,Diya,Maharashtra,Surat,Electronics,Phones,220.0,12.0,7,EMI
+B-25666,10-08-2018,Harivansh,Maharashtra,Delhi,Electronics,Accessories,285.0,77.0,6,UPI
+B-25667,28-09-2018,Madan Mohan,Gujarat,Delhi,Furniture,Bookcases,424.0,-86.0,7,COD
+B-25668,06-03-2018,Shiva,Maharashtra,Surat,Clothing,Shirt,1184.0,155.0,7,EMI
+B-25669,02-05-2018,Aarav,Delhi,Surat,Clothing,Kurti,435.0,,3,COD
+B-25670,04-09-2018,Meera,Punjab,Surat,Clothing,Saree,303.0,-111.0,3,UPI
+B-25671,29-10-2018,Meera,Maharashtra,Surat,Clothing,Saree,62.0,16.0,5,COD
+B-25672,20-11-2018,Madan Mohan,Maharashtra,Lucknow,Furniture,Chairs,261.0,-88.0,4,Debit Card
+B-25673,27-01-2018,Aarav,Delhi,Surat,Electronics,Printers,179.0,9.0,2,Debit Card
+B-25674,27-05-2018,Harivansh,Maharashtra,Amritsar,Clothing,Trousers,231.0,-49.0,5,Credit Card
+B-25675,04-01-2018,Aarav,Uttar Pradesh,Surat,Clothing,Shirt,210.0,92.0,4,COD
+B-25676,26-10-2018,Madhav,Delhi,Delhi,Furniture,Tables,421.0,-88.0,7,COD
+B-25677,14-02-2018,Harivansh,Uttar Pradesh,Mumbai,Clothing,Trousers,257.0,-85.0,2,COD
+B-25678,28-10-2018,Diya,Madhya Pradesh,Lucknow,Clothing,Shirt,149.0,17.0,4,EMI
+B-25679,26-02-2018,Madhav,Delhi,Mumbai,Clothing,Trousers,521.0,-12.0,4,COD
+B-25680,06-01-2018,Shiva,Uttar Pradesh,Mumbai,Clothing,Trousers,112.0,-33.0,7,UPI
+B-25681,17-11-2018,Harivansh,Maharashtra,Lucknow,Clothing,Saree,294.0,62.0,5,Debit Card
+B-25682,10-06-2018,Diya,Uttar Pradesh,Lucknow,Clothing,Kurti,262.0,-109.0,1,COD
+B-25683,05-06-2018,Kabir,Gujarat,Delhi,Clothing,Shirt,368.0,-66.0,3,COD
+B-25684,25-08-2018,Aarav,Uttar Pradesh,Amritsar,Electronics,Electronic Games,599.0,-38.0,7,COD
+B-25685,11-04-2018,Kabir,Madhya Pradesh,Surat,Clothing,Saree,1299.0,364.0,2,UPI
+B-25686,10-09-2018,Shiva,Madhya Pradesh,Lucknow,Clothing,Saree,303.0,122.0,3,EMI
+B-25687,06-06-2018,Madhav,Maharashtra,Lucknow,Furniture,Furnishings,177.0,63.0,2,COD
+B-25688,10-04-2018,Madhav,Maharashtra,Surat,Electronics,Electronic Games,164.0,7.0,6,EMI
+B-25689,25-05-2018,Madhav,Maharashtra,Indore,Clothing,Saree,164.0,-86.0,1,COD
+B-25690,03-01-2018,Madhav,Punjab,Amritsar,Clothing,Shirt,359.0,64.0,3,COD
+B-25691,21-04-2018,Madan Mohan,Maharashtra,Surat,Furniture,Chairs,52.0,23.0,5,EMI
+B-25692,04-08-2018,Madhav,Gujarat,Surat,Clothing,Saree,107.0,42.0,7,Credit Card
+B-25693,20-02-2018,Aarav,Maharashtra,Indore,Clothing,Kurti,359.0,70.0,2,COD
+B-25694,13-02-2018,Madhav,Maharashtra,Delhi,Furniture,Tables,538.0,-117.0,3,Debit Card
+B-25695,28-08-2018,Aarav,Madhya Pradesh,Surat,Clothing,Trousers,540.0,-28.0,1,Credit Card
+B-25696,06-06-2018,Madan Mohan,Madhya Pradesh,Mumbai,Electronics,Phones,313.0,176.0,4,Debit Card
+B-25697,19-02-2018,Diya,Gujarat,Indore,Clothing,Shirt,494.0,-135.0,7,UPI
+B-25698,30-09-2018,Aarav,Punjab,Delhi,Electronics,Phones,606.0,-125.0,3,COD
+B-25699,11-10-2018,Meera,Gujarat,Lucknow,Clothing,Trousers,218.0,69.0,2,COD
+B-25700,13-01-2018,Shiva,Maharashtra,Surat,Clothing,Saree,566.0,-16.0,3,UPI
+B-25701,15-03-2018,Madan Mohan,Gujarat,Lucknow,Clothing,Kurti,81.0,-17.0,7,UPI
+B-25702,16-05-2018,Aarav,Maharashtra,Amritsar,Clothing,Kurti,105.0,49.0,4,COD
+B-25703,24-09-2018,Diya,Punjab,Indore,Furniture,Furnishings,227.0,44.0,5,COD
+B-25704,28-01-2018,Shiva,Madhya Pradesh,Lucknow,Clothing,Skirt,73.0,-1.0,6,COD
+B-25705,22-10-2018,Aarav,Madhya Pradesh,Mumbai,Clothing,Shirt,426.0,-88.0,6,UPI
+B-25706,27-04-2018,Shiva,Maharashtra,Indore,Electronics,Printers,195.0,115.0,5,COD
+B-25707,15-02-2018,Madan Mohan,Maharashtra,Indore,Electronics,Electronic Games,264.0,20.0,4,COD
+B-25708,12-11-2018,Madan Mohan,Maharashtra,Surat,Clothing,Shirt,271.0,116.0,4,COD
+B-25709,01-02-2018,Meera,Punjab,Lucknow,Clothing,Skirt,223.0,68.0,2,Credit Card
+B-25710,17-02-2018,Diya,Gujarat,Indore,Furniture,Tables,163.0,-8.0,3,UPI
+B-25711,13-12-2018,Harivansh,Punjab,Indore,Electronics,Electronic Games,412.0,,6,COD
+B-25712,09-07-2018,Meera,Maharashtra,Delhi,Electronics,Electronic Games,192.0,85.0,1,COD
+B-25713,19-06-2018,Diya,Uttar Pradesh,Surat,Furniture,Bookcases,269.0,120.0,6,COD
+B-25714,08-09-2018,Harivansh,Maharashtra,Amritsar,Electronics,Accessories,370.0,-144.0,4,UPI
+B-25715,19-08-2018,Diya,Uttar Pradesh,Mumbai,Clothing,Kurti,603.0,131.0,3,UPI
+B-25716,12-08-2018,Aarav,Madhya Pradesh,Amritsar,Clothing,Kurti,572.0,28.0,1,UPI
+B-25717,09-01-2018,Meera,Maharashtra,Lucknow,Clothing,Kurti,205.0,-37.0,6,Debit Card
+B-25718,21-07-2018,Shiva,Uttar Pradesh,Surat,Electronics,Accessories,157.0,23.0,1,COD
+B-25719,12-04-2018,Aarav,Maharashtra,Mumbai,Furniture,Tables,683.0,-176.0,4,COD
+B-25720,22-10-2018,Madan Mohan,Madhya Pradesh,Delhi,Clothing,Trousers,191.0,-7.0,2,COD
+B-25721,04-07-2018,Madan Mohan,Uttar Pradesh,Amritsar,Clothing,Shirt,401.0,-48.0,7,UPI
+B-25722,15-02-2018,Aarav,Maharashtra,Mumbai,Clothing,Trousers,70.0,-3.0,2,COD
+B-25723,20-11-2018,Kabir,Punjab,Surat,Furniture,Furnishings,51.0,3.0,6,Debit Card
+B-25724,14-04-2018,Meera,Madhya Pradesh,Mumbai,Clothing,Saree,303.0,-53.0,5,COD
+B-25725,10-04-2018,Kabir,Gujarat,Amritsar,Clothing,Skirt,244.0,115.0,1,UPI
+B-25726,08-12-2018,Aarav,Uttar Pradesh,Surat,Clothing,Saree,472.0,96.0,6,COD
+B-25727,10-10-2018,Aarav,Delhi,Amritsar,Clothing,Shirt,164.0,87.0,7,COD
+B-25728,10-11-2018,Madan Mohan,Delhi,Amritsar,Clothing,Kurti,352.0,14.0,2,Debit Card
+B-25729,30-08-2018,Kabir,Gujarat,Indore,Clothing,Trousers,455.0,-26.0,7,COD
+B-25730,29-11-2018,Madan Mohan,Uttar Pradesh,Lucknow,Clothing,Trousers,169.0,88.0,6,COD
+B-25731,12-02-2018,Madan Mohan,Maharashtra,Surat,Clothing,Skirt,227.0,-15.0,6,COD
+B-25732,07-08-2018,Kabir,Maharashtra,Indore,Clothing,Shirt,121.0,4.0,3,Debit Card
+B-25733,18-04-2018,Aarav,Uttar Pradesh,Indore,Clothing,Skirt,483.0,126.0,1,COD
+B-25734,26-05-2018,Madan Mohan,Maharashtra,Mumbai,Clothing,Kurti,416.0,-95.0,4,EMI
+B-25735,28-03-2018,Kabir,Maharashtra,Amritsar,Electronics,Printers,437.0,113.0,6,EMI
+B-25736,16-03-2018,Meera,Maharashtra,Indore,Clothing,Kurti,243.0,55.0,5,Credit Card
+B-25737,11-06-2018,Madan Mohan,Uttar Pradesh,Lucknow,Clothing,Shirt,411.0,163.0,5,COD
+B-25738,02-12-2018,Aarav,Maharashtra,Lucknow,Clothing,Trousers,258.0,78.0,6,Debit Card
+B-25739,20-08-2018,Shiva,Uttar Pradesh,Lucknow,Clothing,Skirt,758.0,307.0,3,COD
+B-25740,08-05-2018,Diya,Gujarat,Surat,Clothing,Kurti,286.0,15.0,1,Credit Card
+B-25741,08-06-2018,Meera,Gujarat,Amritsar,Clothing,Kurti,551.0,-75.0,7,UPI
+B-25742,13-07-2018,Aarav,Madhya Pradesh,Delhi,Furniture,Furnishings,244.0,148.0,5,COD
+B-25743,31-03-2018,Kabir,Uttar Pradesh,Amritsar,Clothing,Shirt,658.0,-199.0,4,COD
+B-25744,10-07-2018,Aarav,Uttar Pradesh,Mumbai,Clothing,Kurti,156.0,-43.0,5,Credit Card
+B-25745,11-09-2018,Meera,Madhya Pradesh,Amritsar,Clothing,Skirt,382.0,85.0,6,Credit Card
+B-25746,30-03-2018,Shiva,Uttar Pradesh,Mumbai,Clothing,Shirt,180.0,88.0,6,UPI
+B-25747,02-08-2018,Shiva,Maharashtra,Mumbai,Clothing,Skirt,342.0,44.0,5,UPI
+B-25748,16-09-2018,Shiva,Punjab,Mumbai,Electronics,Electronic Games,192.0,63.0,6,Debit Card
+B-25749,09-07-2018,Meera,Maharashtra,Indore,Furniture,Furnishings,285.0,-119.0,3,Credit Card
+B-25750,17-04-2018,Aarav,Gujarat,Amritsar,Clothing,Shirt,213.0,-10.0,5,Debit Card
+B-25751,22-07-2018,Madhav,,Indore,Clothing,Trousers,445.0,-173.0,7,COD
+B-25752,17-10-2018,Harivansh,,Surat,Clothing,Skirt,393.0,108.0,2,UPI
+B-25753,22-03-2018,Aarav,Delhi,Lucknow,Clothing,Kurti,175.0,-54.0,4,Credit Card
+B-25754,29-07-2018,Kabir,Maharashtra,Mumbai,Electronics,Printers,172.0,-41.0,5,COD
+B-25755,06-09-2018,Shiva,Gujarat,Lucknow,Clothing,Kurti,147.0,31.0,4,COD
+B-25756,28-04-2018,Aarav,Uttar Pradesh,Indore,Clothing,Trousers,126.0,44.0,7,COD
+B-25757,22-05-2018,Kabir,Maharashtra,Indore,Furniture,Chairs,465.0,19.0,3,COD
+B-25758,21-11-2018,Aarav,Maharashtra,Delhi,Clothing,Saree,140.0,31.0,2,Debit Card
+B-25759,13-05-2018,Meera,Delhi,Surat,Clothing,Shirt,361.0,77.0,1,COD
+B-25760,07-08-2018,Diya,Maharashtra,Delhi,Electronics,Printers,200.0,5.0,6,UPI
+B-25761,24-02-2018,Diya,Gujarat,Indore,Clothing,Shirt,540.0,-105.0,5,COD
+B-25762,04-12-2018,Kabir,Delhi,Surat,Clothing,Shirt,877.0,194.0,5,Credit Card
+B-25763,06-08-2018,Diya,Delhi,Surat,Clothing,Trousers,27.0,6.0,4,Credit Card
+B-25764,05-10-2018,Harivansh,Maharashtra,Indore,Furniture,Tables,155.0,47.0,3,UPI
+B-25765,08-08-2018,Shiva,Delhi,Amritsar,Clothing,Shirt,197.0,31.0,7,Debit Card
+B-25766,10-05-2018,Madhav,Punjab,Amritsar,Clothing,Trousers,249.0,-53.0,5,COD
+B-25767,05-05-2018,Aarav,Maharashtra,Delhi,Clothing,Trousers,238.0,60.0,7,Credit Card
+B-25768,13-09-2018,Madhav,Madhya Pradesh,Indore,Clothing,Skirt,104.0,8.0,6,Debit Card
+B-25769,10-11-2018,Aarav,Maharashtra,Lucknow,Clothing,Kurti,888.0,-36.0,6,COD
+B-25770,16-02-2018,Madan Mohan,Madhya Pradesh,Lucknow,Clothing,Shirt,244.0,2.0,4,EMI
+B-25771,05-11-2018,Harivansh,Delhi,Indore,Clothing,Kurti,392.0,-36.0,2,COD
+B-25772,30-10-2018,Harivansh,Madhya Pradesh,Indore,Clothing,Shirt,400.0,121.0,5,UPI
+B-25773,09-02-2018,Aarav,Uttar Pradesh,Mumbai,Furniture,Bookcases,86.0,-24.0,6,COD
+B-25774,09-02-2018,Harivansh,Madhya Pradesh,Mumbai,Clothing,Shirt,222.0,-37.0,4,Debit Card
+B-25775,11-09-2018,Kabir,Maharashtra,Surat,Furniture,Bookcases,465.0,-1.0,1,COD
+B-25776,04-11-2018,Kabir,Maharashtra,Mumbai,Clothing,Shirt,685.0,331.0,7,COD
+B-25777,24-05-2018,Diya,Gujarat,Lucknow,Clothing,Skirt,225.0,77.0,6,UPI
+B-25778,22-08-2018,Madhav,Uttar Pradesh,Lucknow,Electronics,Electronic Games,99.0,-33.0,3,EMI
+B-25779,31-12-2018,Kabir,Madhya Pradesh,Mumbai,Furniture,Tables,185.0,77.0,4,COD
+B-25780,28-04-2018,Diya,Gujarat,Surat,Clothing,Saree,218.0,91.0,1,UPI
+B-25781,24-03-2018,Shiva,Maharashtra,Amritsar,Furniture,Bookcases,212.0,-45.0,7,UPI
+B-25782,28-12-2018,Harivansh,Maharashtra,Delhi,Clothing,Saree,147.0,-81.0,2,Credit Card
+B-25783,13-04-2018,Aarav,Maharashtra,Surat,Clothing,Trousers,91.0,6.0,3,COD
+B-25784,22-06-2018,Kabir,Punjab,Indore,Furniture,Furnishings,120.0,43.0,3,UPI
+B-25785,11-06-2018,Harivansh,Delhi,Amritsar,Clothing,Shirt,187.0,89.0,2,EMI
+B-25786,10-07-2018,Harivansh,Uttar Pradesh,Surat,Electronics,Printers,460.0,-63.0,5,COD
+B-25787,09-04-2018,Shiva,Maharashtra,Lucknow,Clothing,Saree,579.0,300.0,7,COD
+B-25788,05-09-2018,Aarav,Maharashtra,Surat,Electronics,Electronic Games,307.0,-146.0,6,Credit Card
+B-25789,10-09-2018,Shiva,Uttar Pradesh,Amritsar,Clothing,Kurti,123.0,-1.0,4,COD
+B-25790,15-03-2018,Shiva,Madhya Pradesh,Delhi,Clothing,Saree,194.0,-5.0,1,COD
+B-25791,25-06-2018,Madan Mohan,Punjab,Indore,Clothing,Saree,52.0,19.0,7,COD
+B-25792,21-01-2018,Harivansh,Delhi,Indore,Clothing,Kurti,693.0,280.0,2,Credit Card
+B-25793,22-03-2018,Harivansh,Madhya Pradesh,Indore,Clothing,Trousers,173.0,55.0,7,EMI
+B-25794,27-12-2018,Harivansh,Delhi,Indore,Clothing,Skirt,370.0,-95.0,3,UPI
+B-25795,04-07-2018,Diya,Punjab,Amritsar,Clothing,Kurti,552.0,163.0,4,UPI
+B-25796,16-08-2018,Kabir,Madhya Pradesh,Indore,Clothing,Trousers,819.0,170.0,4,COD
+B-25797,21-11-2018,Shiva,Uttar Pradesh,Amritsar,Clothing,Saree,493.0,-167.0,4,COD
+B-25798,18-09-2018,Harivansh,Punjab,Indore,Electronics,Printers,211.0,-92.0,2,COD
+B-25799,17-10-2018,Shiva,Maharashtra,Lucknow,Electronics,Printers,404.0,137.0,4,COD
+B-25800,17-09-2018,Meera,Gujarat,Delhi,Electronics,Electronic Games,800.0,28.0,3,COD
+B-25801,02-07-2018,Madhav,Maharashtra,Mumbai,Clothing,Shirt,172.0,-42.0,6,Debit Card
+B-25802,19-08-2018,Shiva,Uttar Pradesh,Indore,Furniture,Furnishings,88.0,2.0,4,COD
+B-25803,16-04-2018,Aarav,Gujarat,Indore,Clothing,Saree,148.0,25.0,7,COD
+B-25804,22-11-2018,Madan Mohan,Uttar Pradesh,Mumbai,Clothing,Saree,386.0,23.0,3,COD
+B-25805,07-03-2018,Shiva,Madhya Pradesh,Surat,Clothing,Skirt,215.0,-66.0,3,COD
+B-25806,19-11-2018,Shiva,Uttar Pradesh,Delhi,Electronics,Printers,267.0,147.0,1,COD
+B-25807,17-11-2018,Shiva,Maharashtra,Amritsar,Clothing,Saree,430.0,142.0,6,COD
+B-25808,21-02-2018,Diya,Maharashtra,Amritsar,Clothing,Shirt,145.0,-1.0,1,COD
+B-25809,17-09-2018,Aarav,Maharashtra,Lucknow,Furniture,Chairs,258.0,2.0,2,UPI
+B-25810,28-12-2018,Harivansh,Uttar Pradesh,Surat,Clothing,Kurti,192.0,33.0,7,Debit Card
+B-25811,28-07-2018,Harivansh,Madhya Pradesh,Mumbai,Clothing,Shirt,779.0,-158.0,5,Credit Card
+B-25812,05-05-2018,Shiva,Maharashtra,Lucknow,Furniture,Chairs,483.0,78.0,4,Debit Card
+B-25813,17-11-2018,Meera,Gujarat,Delhi,Clothing,Shirt,216.0,-55.0,6,UPI
+B-25814,07-07-2018,Harivansh,Madhya Pradesh,Lucknow,Clothing,Kurti,208.0,13.0,6,EMI
+B-25815,14-02-2018,Harivansh,Madhya Pradesh,Surat,Furniture,Bookcases,836.0,-177.0,7,UPI
+B-25816,01-04-2018,Diya,Madhya Pradesh,Amritsar,Furniture,Tables,793.0,-158.0,5,UPI
+B-25817,07-09-2018,Shiva,Maharashtra,Lucknow,Clothing,Skirt,384.0,189.0,4,COD
+B-25818,16-06-2018,Madhav,Delhi,Indore,Clothing,Trousers,276.0,26.0,1,COD
+B-25819,21-03-2018,Madhav,Madhya Pradesh,Delhi,Clothing,Skirt,105.0,14.0,3,COD
+B-25820,19-10-2018,Diya,Maharashtra,Amritsar,Clothing,Saree,149.0,-63.0,5,COD
+B-25821,14-02-2018,Aarav,Punjab,Amritsar,Clothing,Saree,99.0,-7.0,2,Credit Card
+B-25822,21-03-2018,Diya,Gujarat,Surat,Clothing,Shirt,567.0,111.0,5,COD
+B-25823,19-06-2018,Madan Mohan,Delhi,Indore,Electronics,Printers,106.0,14.0,1,Debit Card
+B-25824,15-01-2018,Aarav,Gujarat,Indore,Electronics,Accessories,206.0,-94.0,1,Credit Card
+B-25825,22-05-2018,Kabir,Punjab,Delhi,Clothing,Skirt,60.0,8.0,3,UPI
+B-25826,29-11-2018,Madan Mohan,Madhya Pradesh,Lucknow,Clothing,Kurti,81.0,14.0,2,COD
+B-25827,10-12-2018,Shiva,Uttar Pradesh,Delhi,Clothing,Shirt,444.0,178.0,7,COD
+B-25828,15-11-2018,Madhav,Uttar Pradesh,Amritsar,Furniture,Chairs,345.0,-29.0,3,COD
+B-25829,29-04-2018,Diya,Maharashtra,Delhi,Clothing,Saree,283.0,-136.0,3,EMI
+B-25830,24-01-2018,Harivansh,Maharashtra,Lucknow,Clothing,Skirt,208.0,-35.0,3,Debit Card
+B-25831,25-10-2018,Madhav,Maharashtra,Amritsar,Clothing,Kurti,73.0,-14.0,3,Debit Card
+B-25832,17-05-2018,Diya,Uttar Pradesh,Lucknow,Clothing,Skirt,189.0,50.0,7,UPI
+B-25833,01-10-2018,Harivansh,Gujarat,Delhi,Electronics,Accessories,247.0,-148.0,6,Debit Card
+B-25834,13-02-2018,Meera,,Mumbai,Electronics,Printers,424.0,-14.0,2,Debit Card
+B-25835,01-09-2018,Shiva,Madhya Pradesh,Delhi,Clothing,Trousers,547.0,239.0,2,COD
+B-25836,03-08-2018,Shiva,Maharashtra,Lucknow,Electronics,Printers,453.0,37.0,1,COD
+B-25837,02-12-2018,Aarav,Madhya Pradesh,Mumbai,Furniture,Chairs,344.0,105.0,2,COD
+B-25838,07-02-2018,Diya,Uttar Pradesh,Indore,Clothing,Skirt,280.0,-93.0,5,UPI
+B-25839,29-05-2018,Shiva,Punjab,Surat,Clothing,Skirt,321.0,-103.0,7,Credit Card
+B-25840,28-12-2018,Meera,Gujarat,Indore,Clothing,Skirt,179.0,79.0,4,UPI
+B-25841,23-05-2018,Meera,Punjab,Mumbai,Electronics,Phones,297.0,31.0,1,UPI
+B-25842,29-08-2018,Madhav,Gujarat,Mumbai,Clothing,Shirt,246.0,26.0,1,EMI
+B-25843,28-02-2018,Diya,Punjab,Mumbai,Clothing,Kurti,1055.0,,3,COD
+B-25844,23-09-2018,Madan Mohan,Madhya Pradesh,Lucknow,Clothing,Skirt,327.0,34.0,2,COD
+B-25845,11-04-2018,Meera,Maharashtra,Lucknow,Furniture,Tables,49.0,-10.0,5,EMI
+B-25846,28-07-2018,Madan Mohan,Maharashtra,Delhi,Clothing,Trousers,200.0,75.0,1,EMI
+B-25847,18-11-2018,Madan Mohan,Madhya Pradesh,Delhi,Electronics,Phones,227.0,173.0,2,Debit Card
+B-25848,30-08-2018,Diya,Maharashtra,Delhi,Clothing,Trousers,494.0,99.0,4,COD
+B-25849,23-06-2018,Kabir,Maharashtra,Amritsar,Furniture,Bookcases,356.0,-28.0,2,EMI
+B-25850,11-03-2018,Madhav,Punjab,Indore,Clothing,Trousers,344.0,-190.0,3,Debit Card
+B-25851,05-05-2018,Aarav,Maharashtra,Surat,Clothing,Saree,645.0,-220.0,2,Debit Card
+B-25852,06-11-2018,Madan Mohan,Punjab,Mumbai,Furniture,Bookcases,795.0,373.0,1,COD
+B-25853,20-03-2018,Aarav,Delhi,Amritsar,Furniture,Tables,443.0,-79.0,3,UPI
+B-25854,28-08-2018,Aarav,Uttar Pradesh,Lucknow,Clothing,Shirt,212.0,-3.0,3,Credit Card
+B-25855,27-06-2018,Meera,Delhi,Lucknow,Clothing,Trousers,216.0,53.0,7,Credit Card
+B-25856,28-04-2018,Meera,Madhya Pradesh,Mumbai,Electronics,Phones,592.0,267.0,7,UPI
+B-25857,19-09-2018,Diya,Uttar Pradesh,Delhi,Furniture,Bookcases,216.0,7.0,4,UPI
+B-25858,13-05-2018,Diya,Maharashtra,Lucknow,Clothing,Kurti,267.0,-6.0,3,Debit Card
+B-25859,15-04-2018,Meera,Punjab,Amritsar,Clothing,Shirt,197.0,19.0,3,UPI
+B-25860,13-07-2018,Madhav,Madhya Pradesh,Indore,Electronics,Accessories,121.0,-9.0,5,COD
+B-25861,04-10-2018,Diya,Maharashtra,Lucknow,Electronics,Accessories,1003.0,-64.0,3,COD
+B-25862,12-11-2018,Kabir,Delhi,Amritsar,Electronics,Printers,268.0,49.0,6,COD
+B-25863,18-08-2018,Madhav,Uttar Pradesh,Surat,Clothing,Trousers,705.0,89.0,7,Debit Card
+B-25864,30-08-2018,Meera,Madhya Pradesh,Surat,Clothing,Trousers,218.0,134.0,3,COD
+B-25865,15-10-2018,Diya,Uttar Pradesh,Delhi,Furniture,Furnishings,173.0,33.0,1,COD
+B-25866,09-04-2018,Madan Mohan,Maharashtra,Amritsar,Furniture,Chairs,418.0,154.0,1,EMI
+B-25867,02-04-2018,Shiva,Delhi,Indore,Electronics,Electronic Games,545.0,-102.0,7,Debit Card
+B-25868,26-06-2018,Shiva,Maharashtra,Surat,Clothing,Kurti,568.0,120.0,3,COD
+B-25869,19-08-2018,Meera,Maharashtra,Delhi,Clothing,Trousers,245.0,-25.0,3,COD
+B-25870,24-08-2018,Meera,Maharashtra,Lucknow,Electronics,Printers,448.0,80.0,5,Debit Card
+B-25871,26-02-2018,Kabir,Madhya Pradesh,Indore,Clothing,Saree,187.0,47.0,7,COD
+B-25872,12-10-2018,Diya,Madhya Pradesh,Delhi,Furniture,Furnishings,294.0,,3,UPI
+B-25873,13-05-2018,Harivansh,Madhya Pradesh,Mumbai,Clothing,Shirt,228.0,155.0,3,UPI
+B-25874,17-11-2018,Meera,Maharashtra,Surat,Electronics,Accessories,204.0,89.0,7,COD
+B-25875,22-09-2018,Madhav,Maharashtra,Indore,Furniture,Chairs,303.0,113.0,1,Debit Card
+B-25876,25-12-2018,Madhav,Uttar Pradesh,Lucknow,Clothing,Trousers,119.0,32.0,6,COD
+B-25877,19-08-2018,Harivansh,Maharashtra,Indore,Clothing,Kurti,516.0,269.0,4,UPI
+B-25878,12-07-2018,Meera,Delhi,Lucknow,Clothing,Saree,204.0,,1,COD
+B-25879,10-03-2018,Shiva,Punjab,Lucknow,Clothing,Saree,500.0,211.0,2,COD
+B-25880,26-05-2018,Madhav,Madhya Pradesh,Indore,Clothing,Skirt,139.0,-23.0,5,COD
+B-25881,10-11-2018,Harivansh,Punjab,Amritsar,Clothing,Kurti,204.0,-12.0,6,Credit Card
+B-25882,20-05-2018,Shiva,Maharashtra,Surat,Furniture,Chairs,119.0,26.0,2,COD
+B-25883,20-01-2018,Diya,Maharashtra,Lucknow,Clothing,Shirt,115.0,45.0,5,COD
+B-25884,31-03-2018,Meera,Delhi,Mumbai,Clothing,Saree,153.0,-32.0,7,COD
+B-25885,06-08-2018,Aarav,Delhi,Amritsar,Clothing,Shirt,141.0,-7.0,5,Debit Card
+B-25886,18-08-2018,Aarav,Gujarat,Surat,Clothing,Saree,119.0,12.0,5,UPI
+B-25887,26-12-2018,Kabir,Maharashtra,Delhi,Clothing,Saree,280.0,9.0,2,EMI
+B-25888,07-12-2018,Meera,Gujarat,Delhi,Clothing,Saree,413.0,121.0,5,Debit Card
+B-25889,13-07-2018,Madan Mohan,Madhya Pradesh,Mumbai,Electronics,Electronic Games,428.0,402.0,5,UPI
+B-25890,22-07-2018,Meera,,Lucknow,Clothing,Shirt,69.0,13.0,1,Debit Card
+B-25891,20-10-2018,Aarav,Maharashtra,Indore,Furniture,Furnishings,227.0,-24.0,3,COD
+B-25892,18-01-2018,Meera,Punjab,Delhi,Clothing,Shirt,211.0,-52.0,7,EMI
+B-25893,06-08-2018,Harivansh,Maharashtra,Amritsar,Clothing,Kurti,652.0,-1.0,7,EMI
+B-25894,23-06-2018,Harivansh,Gujarat,Delhi,Electronics,Accessories,233.0,-36.0,2,COD
+B-25895,13-10-2018,Meera,Uttar Pradesh,Delhi,Furniture,Furnishings,264.0,52.0,6,UPI
+B-25896,20-10-2018,Diya,Delhi,Surat,Clothing,Shirt,89.0,17.0,4,COD
+B-25897,28-08-2018,Madhav,Delhi,Amritsar,Clothing,Saree,150.0,-5.0,5,UPI
+B-25898,28-08-2018,Meera,Gujarat,Mumbai,Clothing,Kurti,85.0,49.0,4,Debit Card
+B-25899,10-09-2018,Harivansh,Maharashtra,Indore,Clothing,Skirt,293.0,-30.0,7,EMI
+B-25900,31-07-2018,Diya,Maharashtra,Indore,Clothing,Shirt,666.0,33.0,4,COD
+B-25901,25-03-2018,Madhav,Uttar Pradesh,Surat,Clothing,Skirt,154.0,37.0,5,Debit Card
+B-25902,14-04-2018,Harivansh,Madhya Pradesh,Lucknow,Clothing,Shirt,235.0,71.0,5,Debit Card
+B-25903,28-09-2018,Kabir,Maharashtra,Surat,Clothing,Saree,141.0,56.0,4,COD
+B-25904,14-08-2018,Kabir,Maharashtra,Lucknow,Furniture,Furnishings,176.0,33.0,7,UPI
+B-25905,28-03-2018,Harivansh,Madhya Pradesh,Amritsar,Electronics,Electronic Games,297.0,102.0,2,Debit Card
+B-25906,17-11-2018,Harivansh,Maharashtra,Surat,Clothing,Trousers,872.0,-75.0,7,Debit Card
+B-25907,24-12-2018,Aarav,Maharashtra,Mumbai,Clothing,Skirt,645.0,200.0,5,EMI
+B-25908,17-08-2018,Harivansh,Punjab,Amritsar,Clothing,Saree,769.0,235.0,7,COD
+B-25909,25-03-2018,Diya,Madhya Pradesh,Amritsar,Clothing,Skirt,503.0,230.0,3,COD
+B-25910,09-12-2018,Meera,Punjab,Mumbai,Electronics,Printers,232.0,-78.0,4,COD
+B-25911,28-03-2018,Kabir,Punjab,Lucknow,Furniture,Furnishings,210.0,-31.0,1,COD
+B-25912,07-06-2018,Madhav,Maharashtra,Amritsar,Furniture,Bookcases,155.0,44.0,7,UPI
+B-25913,10-11-2018,Madhav,Delhi,Amritsar,Furniture,Chairs,230.0,-134.0,6,Credit Card
+B-25914,10-07-2018,Diya,Uttar Pradesh,Lucknow,Furniture,Furnishings,672.0,136.0,3,UPI
+B-25915,30-03-2018,Harivansh,Delhi,Delhi,Furniture,Bookcases,667.0,230.0,1,Debit Card
+B-25916,30-01-2018,Aarav,Maharashtra,Mumbai,Clothing,Saree,1081.0,-69.0,5,COD
+B-25917,12-05-2018,Shiva,Maharashtra,Delhi,Clothing,Skirt,313.0,-9.0,5,COD
+B-25918,03-09-2018,Diya,Maharashtra,Delhi,Clothing,Saree,105.0,-20.0,4,Credit Card
+B-25919,18-09-2018,Madhav,Uttar Pradesh,Lucknow,Clothing,Trousers,395.0,-20.0,2,Debit Card
+B-25920,23-03-2018,Kabir,Punjab,Indore,Clothing,Skirt,878.0,-38.0,7,COD
+B-25921,27-02-2018,Diya,Delhi,Surat,Furniture,Chairs,729.0,-66.0,4,EMI
+B-25922,14-09-2018,Madhav,Delhi,Lucknow,Clothing,Shirt,193.0,-20.0,6,UPI
+B-25923,28-02-2018,Madan Mohan,Punjab,Indore,Clothing,Shirt,113.0,1.0,7,COD
+B-25924,24-01-2018,Harivansh,Delhi,Lucknow,Clothing,Trousers,111.0,1.0,4,UPI
+B-25925,27-06-2018,Shiva,Maharashtra,Lucknow,Clothing,Shirt,162.0,89.0,1,Debit Card
+B-25926,28-07-2018,Madan Mohan,Gujarat,Indore,Clothing,Shirt,181.0,-3.0,7,COD
+B-25927,30-03-2018,Harivansh,Madhya Pradesh,Delhi,Furniture,Bookcases,220.0,37.0,5,Credit Card
+B-25928,19-03-2018,Aarav,Maharashtra,Amritsar,Clothing,Trousers,431.0,-28.0,7,UPI
+B-25929,28-03-2018,Aarav,Madhya Pradesh,Surat,Electronics,Accessories,215.0,,5,UPI
+B-25930,06-05-2018,Harivansh,Punjab,Indore,Clothing,Trousers,285.0,-99.0,7,Credit Card
+B-25931,04-01-2018,Madhav,Maharashtra,Lucknow,Clothing,Saree,80.0,-25.0,7,UPI
+B-25932,05-01-2018,Harivansh,Madhya Pradesh,Delhi,Clothing,Trousers,155.0,-34.0,2,COD
+B-25933,16-05-2018,Diya,Maharashtra,Surat,Electronics,Accessories,150.0,19.0,2,COD
+B-25934,08-01-2018,Madan Mohan,Maharashtra,Surat,Electronics,Printers,70.0,24.0,2,COD
+B-25935,27-04-2018,Harivansh,Maharashtra,Lucknow,Clothing,Skirt,211.0,-77.0,6,COD
+B-25936,01-08-2018,Madhav,Delhi,Indore,Furniture,Chairs,81.0,-5.0,2,COD
+B-25937,12-01-2018,Meera,Gujarat,Delhi,Clothing,Shirt,200.0,-52.0,4,UPI
+B-25938,14-08-2018,Madan Mohan,Maharashtra,Mumbai,Furniture,Chairs,301.0,4.0,6,COD
+B-25939,15-08-2018,Diya,Maharashtra,Surat,Clothing,Shirt,679.0,237.0,4,COD
+B-25940,29-07-2018,Shiva,Maharashtra,Amritsar,Clothing,Shirt,144.0,-5.0,1,UPI
+B-25941,17-08-2018,Madhav,Maharashtra,Surat,Furniture,Tables,295.0,20.0,3,COD
+B-25942,23-10-2018,Madan Mohan,Uttar Pradesh,Lucknow,Clothing,Skirt,171.0,76.0,1,UPI
+B-25943,26-01-2018,Harivansh,Delhi,Surat,Clothing,Skirt,77.0,15.0,3,Debit Card
+B-25944,03-03-2018,Diya,Uttar Pradesh,Delhi,Clothing,Saree,684.0,-75.0,6,COD
+B-25945,26-04-2018,Madan Mohan,Madhya Pradesh,Delhi,Clothing,Trousers,310.0,37.0,4,COD
+B-25946,09-09-2018,Shiva,Uttar Pradesh,Amritsar,Electronics,Printers,381.0,-48.0,5,UPI
+B-25947,15-11-2018,Madhav,Maharashtra,Indore,Furniture,Tables,757.0,140.0,1,COD
+B-25948,02-12-2018,Kabir,Maharashtra,Surat,Furniture,Furnishings,199.0,42.0,6,UPI
+B-25949,01-08-2018,Madhav,,Surat,Clothing,Saree,101.0,-26.0,3,Debit Card
+B-25950,30-05-2018,Aarav,Delhi,Delhi,Clothing,Kurti,142.0,18.0,3,UPI
+B-25951,31-05-2018,Kabir,Punjab,Mumbai,Clothing,Kurti,94.0,5.0,5,UPI
+B-25952,22-01-2018,Diya,Punjab,Surat,Clothing,Trousers,565.0,122.0,1,EMI
+B-25953,19-06-2018,Aarav,Uttar Pradesh,Indore,Clothing,Shirt,900.0,259.0,4,COD
+B-25954,07-07-2018,Meera,Punjab,Amritsar,Furniture,Chairs,298.0,59.0,3,Credit Card
+B-25955,18-03-2018,Madhav,Madhya Pradesh,Surat,Furniture,Furnishings,439.0,2.0,2,Credit Card
+B-25956,08-10-2018,Meera,Maharashtra,Lucknow,Electronics,Accessories,517.0,162.0,7,COD
+B-25957,24-10-2018,Aarav,Maharashtra,Lucknow,Clothing,Trousers,790.0,-109.0,3,COD
+B-25958,21-04-2018,Shiva,Maharashtra,Mumbai,Clothing,Saree,876.0,-219.0,1,COD
+B-25959,30-11-2018,Madan Mohan,Maharashtra,Lucknow,Clothing,Kurti,58.0,-42.0,4,EMI
+B-25960,09-02-2018,Diya,Madhya Pradesh,Mumbai,Clothing,Skirt,174.0,11.0,7,COD
+B-25961,29-11-2018,Meera,Delhi,Amritsar,Clothing,Skirt,275.0,-34.0,5,Credit Card
+B-25962,08-10-2018,Diya,Gujarat,Delhi,Clothing,Trousers,159.0,29.0,5,UPI
+B-25963,23-03-2018,Harivansh,Uttar Pradesh,Indore,Clothing,Kurti,224.0,-92.0,7,UPI
+B-25964,26-08-2018,Shiva,Maharashtra,Surat,Furniture,Bookcases,365.0,-30.0,1,UPI
+B-25965,24-04-2018,Diya,Delhi,Mumbai,Clothing,Skirt,358.0,71.0,4,COD
+B-25966,19-10-2018,Shiva,Madhya Pradesh,Delhi,Furniture,Furnishings,506.0,-90.0,3,COD
+B-25967,28-02-2018,Kabir,Maharashtra,Mumbai,Clothing,Kurti,280.0,51.0,5,EMI
+B-25968,31-03-2018,Diya,Maharashtra,Mumbai,Clothing,Shirt,37.0,-2.0,6,COD
+B-25969,23-04-2018,Harivansh,Madhya Pradesh,Indore,Clothing,Trousers,211.0,15.0,1,EMI
+B-25970,14-03-2018,Aarav,Maharashtra,Indore,Clothing,Shirt,341.0,78.0,2,EMI
+B-25971,02-05-2018,Madhav,Gujarat,Surat,Clothing,Skirt,530.0,169.0,7,COD
+B-25972,08-08-2018,Shiva,Delhi,Amritsar,Clothing,Saree,481.0,50.0,4,UPI
+B-25973,20-08-2018,Shiva,Delhi,Surat,Furniture,Tables,253.0,-31.0,3,COD
+B-25974,22-07-2018,Kabir,Maharashtra,Surat,Clothing,Saree,166.0,-6.0,2,UPI
+B-25975,11-03-2018,Kabir,Gujarat,Delhi,Clothing,Trousers,262.0,63.0,3,EMI
+B-25976,15-03-2018,Shiva,Delhi,Lucknow,Clothing,Trousers,65.0,-11.0,1,Credit Card
+B-25977,02-12-2018,Aarav,Maharashtra,Indore,Clothing,Skirt,178.0,6.0,2,EMI
+B-25978,02-04-2018,Diya,Uttar Pradesh,Amritsar,Clothing,Shirt,595.0,-10.0,2,COD
+B-25979,07-02-2018,Diya,Madhya Pradesh,Delhi,Clothing,Saree,261.0,14.0,1,UPI
+B-25980,15-06-2018,Diya,Madhya Pradesh,Delhi,Furniture,Tables,351.0,-60.0,7,COD
+B-25981,03-01-2018,Kabir,Maharashtra,Mumbai,Electronics,Printers,91.0,-35.0,6,Credit Card
+B-25982,06-05-2018,Meera,Madhya Pradesh,Lucknow,Electronics,Accessories,528.0,111.0,7,COD
+B-25983,09-11-2018,Kabir,Maharashtra,Surat,Clothing,Trousers,244.0,78.0,2,COD
+B-25984,08-04-2018,Madhav,Maharashtra,Lucknow,Clothing,Skirt,343.0,-126.0,3,COD
+B-25985,14-09-2018,Shiva,Maharashtra,Delhi,Furniture,Tables,395.0,68.0,2,COD
+B-25986,28-06-2018,Shiva,Punjab,Surat,Clothing,Kurti,515.0,181.0,4,COD
+B-25987,10-05-2018,Aarav,Maharashtra,Mumbai,Clothing,Saree,308.0,71.0,2,COD
+B-25988,30-08-2018,Aarav,Madhya Pradesh,Amritsar,Clothing,Shirt,248.0,-6.0,2,Credit Card
+B-25989,06-08-2018,Diya,Madhya Pradesh,Surat,Electronics,Phones,107.0,-17.0,7,Debit Card
+B-25990,27-04-2018,Shiva,Gujarat,Lucknow,Clothing,Trousers,84.0,8.0,3,COD
+B-25991,23-03-2018,Madan Mohan,Uttar Pradesh,Surat,Electronics,Electronic Games,304.0,43.0,6,Credit Card
+B-25992,01-12-2018,Shiva,Punjab,Mumbai,Electronics,Printers,344.0,36.0,2,COD
+B-25993,03-03-2018,Kabir,Maharashtra,Indore,Clothing,Kurti,384.0,13.0,7,Debit Card
+B-25994,17-12-2018,Madan Mohan,Maharashtra,Mumbai,Furniture,Chairs,145.0,-28.0,5,COD
+B-25995,21-06-2018,Harivansh,Uttar Pradesh,Delhi,Clothing,Kurti,180.0,33.0,7,UPI
+B-25996,30-12-2018,Meera,Madhya Pradesh,Amritsar,Electronics,Printers,300.0,59.0,4,COD
+B-25997,09-05-2018,Madhav,Gujarat,Delhi,Clothing,Skirt,197.0,26.0,7,COD
+B-25998,26-07-2018,Aarav,Gujarat,Surat,Furniture,Chairs,1138.0,123.0,3,UPI
+B-25999,13-08-2018,Kabir,Madhya Pradesh,Mumbai,Clothing,Shirt,177.0,88.0,4,Debit Card
+B-26000,04-05-2018,Madan Mohan,Punjab,Amritsar,Clothing,Kurti,361.0,-27.0,1,Debit Card
+B-26001,21-03-2018,Madan Mohan,Uttar Pradesh,Indore,Clothing,Skirt,471.0,189.0,2,COD
+B-26002,09-07-2018,Madan Mohan,,Delhi,Clothing,Saree,491.0,-51.0,6,UPI
+B-26003,30-08-2018,Madhav,Madhya Pradesh,Surat,Clothing,Shirt,194.0,69.0,3,Debit Card
+B-26004,06-04-2018,Madhav,Maharashtra,Amritsar,Electronics,Electronic Games,397.0,154.0,1,COD
+B-26005,07-10-2018,Madhav,Gujarat,Amritsar,Clothing,Skirt,364.0,2.0,3,COD
+B-26006,22-08-2018,Shiva,Maharashtra,Delhi,Furniture,Tables,408.0,202.0,3,COD
+B-26007,02-03-2018,Aarav,Madhya Pradesh,Delhi,Clothing,Trousers,297.0,59.0,6,COD
+B-26008,09-12-2018,Harivansh,Uttar Pradesh,Lucknow,Electronics,Printers,474.0,-66.0,1,COD
+B-26009,17-01-2018,Kabir,Maharashtra,Delhi,Clothing,Saree,322.0,-4.0,1,COD
+B-26010,27-08-2018,Diya,Maharashtra,Surat,Electronics,Phones,98.0,36.0,6,UPI
+B-26011,10-06-2018,Harivansh,Delhi,Delhi,Clothing,Skirt,315.0,98.0,1,Debit Card
+B-26012,27-08-2018,Kabir,Maharashtra,Delhi,Clothing,Trousers,341.0,-63.0,3,Credit Card
+B-26013,10-10-2018,Harivansh,Madhya Pradesh,Lucknow,Furniture,Tables,452.0,20.0,5,Debit Card
+B-26014,08-09-2018,Aarav,Madhya Pradesh,Indore,Clothing,Kurti,304.0,40.0,4,COD
+B-26015,26-08-2018,Shiva,Maharashtra,Mumbai,Clothing,Saree,802.0,-38.0,1,EMI
+B-26016,03-11-2018,Aarav,Maharashtra,Lucknow,Electronics,Phones,255.0,171.0,6,Debit Card
+B-26017,14-09-2018,Meera,Delhi,Lucknow,Furniture,Bookcases,187.0,26.0,1,UPI
+B-26018,25-10-2018,Meera,Punjab,Delhi,Clothing,Saree,646.0,42.0,2,COD
+B-26019,28-05-2018,Madan Mohan,Maharashtra,Amritsar,Clothing,Trousers,250.0,94.0,1,UPI
+B-26020,16-03-2018,Aarav,Punjab,Surat,Furniture,Bookcases,285.0,-3.0,4,UPI
+B-26021,27-03-2018,Meera,Uttar Pradesh,Surat,Electronics,Printers,341.0,113.0,5,Debit Card
+B-26022,12-08-2018,Diya,Uttar Pradesh,Delhi,Furniture,Chairs,322.0,-108.0,5,Credit Card
+B-26023,14-07-2018,Meera,Delhi,Amritsar,Clothing,Kurti,406.0,-14.0,1,EMI
+B-26024,29-01-2018,Shiva,Delhi,Amritsar,Electronics,Phones,434.0,149.0,3,EMI
+B-26025,16-03-2018,Madan Mohan,Gujarat,Mumbai,Clothing,Saree,175.0,83.0,2,UPI
+B-26026,20-12-2018,Aarav,Madhya Pradesh,Delhi,Furniture,Bookcases,115.0,-13.0,3,EMI
+B-26027,23-09-2018,Kabir,Uttar Pradesh,Delhi,Clothing,Shirt,125.0,-18.0,2,EMI
+B-26028,03-10-2018,Meera,Madhya Pradesh,Amritsar,Electronics,Accessories,600.0,133.0,6,COD
+B-26029,13-03-2018,Diya,Maharashtra,Delhi,Clothing,Shirt,235.0,-18.0,6,UPI
+B-26030,24-01-2018,Diya,Uttar Pradesh,Mumbai,Clothing,Shirt,468.0,6.0,6,COD
+B-26031,17-04-2018,Aarav,Maharashtra,Indore,Electronics,Accessories,442.0,132.0,2,COD
+B-26032,09-11-2018,Madan Mohan,Maharashtra,Mumbai,Clothing,Kurti,285.0,-16.0,1,COD
+B-26033,04-07-2018,Shiva,Maharashtra,Indore,Furniture,Tables,143.0,-59.0,1,UPI
+B-26034,14-10-2018,Shiva,Maharashtra,Mumbai,Clothing,Shirt,449.0,-110.0,6,COD
+B-26035,27-06-2018,Kabir,Uttar Pradesh,Surat,Electronics,Printers,278.0,23.0,7,COD
+B-26036,28-06-2018,Aarav,Uttar Pradesh,Lucknow,Clothing,Trousers,109.0,-42.0,2,COD
+B-26037,08-08-2018,Kabir,Madhya Pradesh,Surat,Clothing,Trousers,198.0,1.0,7,Debit Card
+B-26038,17-12-2018,Harivansh,Maharashtra,Amritsar,Clothing,Kurti,79.0,-21.0,4,Credit Card
+B-26039,09-06-2018,Kabir,Madhya Pradesh,Delhi,Clothing,Kurti,205.0,100.0,2,EMI
+B-26040,06-08-2018,Aarav,Madhya Pradesh,Lucknow,Clothing,Kurti,295.0,183.0,3,UPI
+B-26041,02-12-2018,Meera,Delhi,Indore,Electronics,Accessories,258.0,-48.0,2,COD
+B-26042,16-05-2018,Shiva,Uttar Pradesh,Surat,Electronics,Electronic Games,236.0,34.0,6,Credit Card
+B-26043,03-11-2018,Shiva,Madhya Pradesh,Delhi,Electronics,Printers,293.0,-47.0,2,COD
+B-26044,15-07-2018,Madhav,Madhya Pradesh,Surat,Clothing,Shirt,390.0,1.0,2,EMI
+B-26045,17-11-2018,Kabir,Punjab,Mumbai,Clothing,Saree,493.0,262.0,6,Debit Card
+B-26046,20-06-2018,Diya,Delhi,Mumbai,Clothing,Shirt,537.0,,3,UPI
+B-26047,18-08-2018,Kabir,Madhya Pradesh,Mumbai,Electronics,Printers,160.0,1.0,2,COD
+B-26048,28-04-2018,Harivansh,Madhya Pradesh,Surat,Furniture,Tables,572.0,-89.0,6,COD
+B-26049,20-08-2018,Madhav,Maharashtra,Delhi,Clothing,Shirt,278.0,102.0,7,UPI
+B-26050,30-04-2018,Meera,Punjab,Indore,Electronics,Phones,218.0,-160.0,4,COD
+B-26051,11-08-2018,Harivansh,Madhya Pradesh,Indore,Clothing,Kurti,128.0,-4.0,6,Credit Card
+B-26052,15-10-2018,Aarav,Maharashtra,Delhi,Clothing,Trousers,372.0,25.0,6,UPI
+B-26053,08-06-2018,Shiva,Punjab,Amritsar,Clothing,Skirt,362.0,-31.0,5,COD
+B-26054,06-06-2018,Meera,Delhi,Amritsar,Clothing,Saree,185.0,55.0,6,COD
+B-26055,28-04-2018,Kabir,Maharashtra,Lucknow,Electronics,Phones,189.0,72.0,1,UPI
+B-26056,24-09-2018,Meera,Maharashtra,Surat,Furniture,Furnishings,251.0,-69.0,1,COD
+B-26057,05-08-2018,Madan Mohan,Maharashtra,Mumbai,Clothing,Shirt,215.0,130.0,7,Debit Card
+B-26058,08-07-2018,Aarav,Uttar Pradesh,Amritsar,Clothing,Kurti,155.0,-43.0,1,UPI
+B-26059,10-01-2018,Diya,Maharashtra,Mumbai,Electronics,Accessories,118.0,47.0,6,Credit Card
+B-26060,10-02-2018,Meera,Punjab,Lucknow,Furniture,Bookcases,576.0,68.0,3,UPI
+B-26061,03-01-2018,Harivansh,Punjab,Surat,Clothing,Saree,197.0,-9.0,6,COD
+B-26062,07-11-2018,Meera,Uttar Pradesh,Amritsar,Clothing,Trousers,361.0,-8.0,5,Credit Card
+B-26063,07-11-2018,Madan Mohan,Uttar Pradesh,Indore,Clothing,Shirt,409.0,29.0,1,Debit Card
+B-26064,25-01-2018,Madhav,Maharashtra,Delhi,Clothing,Trousers,373.0,49.0,3,Debit Card
+B-26065,17-01-2018,Aarav,Maharashtra,Indore,Furniture,Tables,424.0,-64.0,5,UPI
+B-26066,13-10-2018,Kabir,Delhi,Mumbai,Clothing,Skirt,370.0,8.0,7,Credit Card
+B-26067,11-07-2018,Madhav,Maharashtra,Lucknow,Electronics,Phones,172.0,-19.0,6,COD
+B-26068,23-04-2018,Harivansh,Maharashtra,Delhi,Clothing,Trousers,224.0,-50.0,7,COD
+B-26069,13-08-2018,Meera,Madhya Pradesh,Indore,Clothing,Saree,566.0,-70.0,7,Credit Card
+B-26070,28-03-2018,Meera,Maharashtra,Amritsar,Furniture,Bookcases,193.0,-40.0,7,COD
+B-26071,14-03-2018,Madhav,Madhya Pradesh,Delhi,Clothing,Trousers,278.0,-7.0,5,Credit Card
+B-26072,15-05-2018,Meera,Delhi,Lucknow,Clothing,Skirt,391.0,74.0,3,COD
+B-26073,23-11-2018,Meera,Gujarat,Lucknow,Furniture,Furnishings,702.0,77.0,4,COD
+B-26074,08-10-2018,Meera,Uttar Pradesh,Lucknow,Furniture,Tables,534.0,306.0,6,COD
+B-26075,11-03-2018,Madhav,Gujarat,Mumbai,Clothing,Saree,139.0,-66.0,3,Credit Card
+B-26076,25-07-2018,Aarav,Madhya Pradesh,Delhi,Clothing,Skirt,353.0,70.0,6,Debit Card
+B-26077,19-11-2018,Meera,Gujarat,Surat,Clothing,Trousers,326.0,27.0,5,COD
+B-26078,14-12-2018,Meera,Madhya Pradesh,Lucknow,Electronics,Printers,225.0,64.0,2,COD
+B-26079,06-10-2018,Aarav,Maharashtra,Lucknow,Clothing,Trousers,284.0,74.0,7,COD
+B-26080,17-02-2018,Madhav,Punjab,Amritsar,Clothing,Skirt,171.0,7.0,6,COD
+B-26081,29-03-2018,Harivansh,Maharashtra,Delhi,Furniture,Tables,248.0,31.0,5,Debit Card
+B-26082,21-03-2018,Madan Mohan,Maharashtra,Indore,Furniture,Furnishings,194.0,-21.0,2,COD
+B-26083,25-02-2018,Harivansh,Maharashtra,Mumbai,Furniture,Furnishings,299.0,70.0,2,COD
+B-26084,05-03-2018,Madhav,Madhya Pradesh,Surat,Furniture,Chairs,220.0,-86.0,6,COD
+B-26085,26-04-2018,Harivansh,Madhya Pradesh,Delhi,Electronics,Accessories,737.0,202.0,1,UPI
+B-26086,22-07-2018,Kabir,Uttar Pradesh,Delhi,Electronics,Phones,306.0,23.0,4,Debit Card
+B-26087,26-05-2018,Aarav,Gujarat,Indore,Electronics,Electronic Games,267.0,-11.0,5,Debit Card
+B-26088,03-06-2018,Aarav,Maharashtra,Indore,Clothing,Skirt,239.0,5.0,2,UPI
+B-26089,31-03-2018,Kabir,Uttar Pradesh,Lucknow,Clothing,Skirt,220.0,9.0,7,EMI
+B-26090,25-02-2018,Shiva,Madhya Pradesh,Surat,Clothing,Trousers,109.0,44.0,4,UPI
+B-26091,31-12-2018,Shiva,Gujarat,Indore,Electronics,Printers,468.0,416.0,1,Credit Card
+B-26092,07-08-2018,Madhav,Maharashtra,Delhi,Clothing,Kurti,647.0,249.0,3,UPI
+B-26093,25-03-2018,Shiva,Maharashtra,Amritsar,Clothing,Shirt,192.0,-12.0,3,COD
+B-26094,23-10-2018,Madhav,Madhya Pradesh,Indore,Clothing,Skirt,564.0,134.0,2,Credit Card
+B-26095,31-10-2018,Aarav,Delhi,Indore,Clothing,Shirt,1131.0,281.0,7,UPI
+B-26096,19-12-2018,Meera,Gujarat,Indore,Clothing,Shirt,880.0,-133.0,3,Debit Card
+B-26097,28-02-2018,Aarav,Uttar Pradesh,Amritsar,Electronics,Printers,628.0,-148.0,4,COD
+B-26098,22-08-2018,Madan Mohan,Gujarat,Delhi,Furniture,Furnishings,120.0,8.0,4,COD
+B-26099,24-12-2018,Diya,Madhya Pradesh,Amritsar,Clothing,Kurti,119.0,34.0,2,Credit Card
+B-26100,22-10-2018,Kabir,Maharashtra,Amritsar,Clothing,Saree,423.0,-137.0,4,COD
+B-26101,24-03-2018,Shiva,Maharashtra,Lucknow,Clothing,Skirt,280.0,-28.0,3,COD
+B-26102,22-11-2018,Madan Mohan,Maharashtra,Mumbai,Electronics,Printers,55.0,12.0,1,COD
+B-26103,03-06-2018,Diya,Madhya Pradesh,Indore,Electronics,Printers,208.0,19.0,3,UPI
+B-26104,28-06-2018,Madhav,Madhya Pradesh,Delhi,Clothing,Saree,410.0,178.0,5,Credit Card
+B-26105,23-07-2018,Meera,Madhya Pradesh,Lucknow,Electronics,Phones,250.0,-68.0,1,UPI
+B-26106,09-10-2018,Madan Mohan,Uttar Pradesh,Mumbai,Clothing,Saree,281.0,188.0,6,EMI
+B-26107,13-02-2018,Madan Mohan,Madhya Pradesh,Amritsar,Clothing,Skirt,118.0,-36.0,5,UPI
+B-26108,16-07-2018,Diya,Delhi,Indore,Furniture,Chairs,206.0,-88.0,3,COD
+B-26109,26-10-2018,Harivansh,Uttar Pradesh,Delhi,Clothing,Kurti,424.0,28.0,5,COD
+B-26110,20-07-2018,Madhav,Madhya Pradesh,Amritsar,Clothing,Saree,199.0,-41.0,3,COD
+B-26111,11-04-2018,Madhav,Madhya Pradesh,Delhi,Clothing,Shirt,594.0,42.0,5,Debit Card
+B-26112,21-01-2018,Shiva,Uttar Pradesh,Surat,Clothing,Saree,286.0,18.0,2,COD
+B-26113,20-07-2018,Aarav,Uttar Pradesh,Mumbai,Furniture,Furnishings,371.0,12.0,5,COD
+B-26114,14-09-2018,Madhav,Madhya Pradesh,Surat,Furniture,Tables,418.0,-55.0,1,Credit Card
+B-26115,20-07-2018,Madan Mohan,Madhya Pradesh,Amritsar,Clothing,Shirt,407.0,77.0,1,UPI
+B-26116,24-12-2018,Kabir,Delhi,Amritsar,Clothing,Saree,136.0,0.0,2,COD
+B-26117,08-08-2018,Meera,Uttar Pradesh,Mumbai,Electronics,Printers,154.0,55.0,2,Debit Card
+B-26118,05-07-2018,Harivansh,Maharashtra,Indore,Clothing,Kurti,54.0,2.0,4,UPI
+B-26119,21-01-2018,Diya,Madhya Pradesh,Mumbai,Furniture,Bookcases,224.0,-36.0,2,Credit Card
+B-26120,23-07-2018,Harivansh,Gujarat,Amritsar,Electronics,Accessories,146.0,-50.0,2,Debit Card
+B-26121,03-03-2018,Aarav,Maharashtra,Indore,Clothing,Skirt,195.0,7.0,1,COD
+B-26122,22-09-2018,Meera,Gujarat,Delhi,Electronics,Electronic Games,240.0,-57.0,7,COD
+B-26123,28-02-2018,Kabir,Maharashtra,Lucknow,Clothing,Kurti,311.0,-80.0,6,COD
+B-26124,27-11-2018,Madhav,Madhya Pradesh,Surat,Clothing,Trousers,253.0,54.0,2,Debit Card
+B-26125,21-04-2018,Madan Mohan,Madhya Pradesh,Amritsar,Clothing,Shirt,250.0,,1,UPI
+B-26126,08-06-2018,Kabir,Maharashtra,Indore,Clothing,Saree,352.0,152.0,6,Debit Card
+B-26127,22-02-2018,Kabir,Punjab,Surat,Electronics,Printers,273.0,33.0,5,UPI
+B-26128,18-03-2018,Madan Mohan,Madhya Pradesh,Indore,Electronics,Accessories,490.0,34.0,7,COD
+B-26129,03-12-2018,Harivansh,Punjab,Indore,Furniture,Tables,273.0,-49.0,2,COD
+B-26130,14-04-2018,Shiva,Maharashtra,Mumbai,Furniture,Bookcases,705.0,191.0,3,COD
+B-26131,07-07-2018,Aarav,Gujarat,Lucknow,Clothing,Skirt,132.0,10.0,1,COD
+B-26132,25-12-2018,Shiva,Punjab,Delhi,Clothing,Trousers,221.0,-20.0,3,UPI
+B-26133,16-08-2018,Meera,Uttar Pradesh,Surat,Electronics,Accessories,173.0,22.0,2,EMI
+B-26134,16-01-2018,Kabir,Maharashtra,Amritsar,Furniture,Furnishings,320.0,-109.0,1,COD
+B-26135,11-05-2018,Kabir,Delhi,Delhi,Clothing,Skirt,132.0,-43.0,4,Debit Card
+B-26136,22-05-2018,Harivansh,Uttar Pradesh,Lucknow,Clothing,Skirt,91.0,-18.0,7,COD
+B-26137,11-04-2018,Kabir,Punjab,Indore,Clothing,Kurti,151.0,25.0,5,Debit Card
+B-26138,30-03-2018,Kabir,Madhya Pradesh,Amritsar,Clothing,Skirt,96.0,8.0,6,COD
+B-26139,03-07-2018,Shiva,Maharashtra,Lucknow,Electronics,Accessories,242.0,83.0,6,Debit Card
+B-26140,18-05-2018,Aarav,Maharashtra,Surat,Clothing,Trousers,311.0,-47.0,7,COD
+B-26141,18-04-2018,Kabir,Delhi,Delhi,Electronics,Electronic Games,81.0,18.0,1,COD
+B-26142,31-05-2018,Meera,Punjab,Amritsar,Electronics,Printers,211.0,11.0,2,UPI
+B-26143,06-05-2018,Aarav,Maharashtra,Amritsar,Electronics,Phones,533.0,-83.0,5,COD
+B-26144,25-03-2018,Harivansh,Delhi,Surat,Clothing,Saree,634.0,112.0,6,UPI
+B-26145,15-06-2018,Aarav,Punjab,Delhi,Clothing,Kurti,446.0,28.0,6,COD
+B-26146,10-12-2018,Diya,Maharashtra,Mumbai,Electronics,Phones,41.0,-3.0,6,EMI
+B-26147,04-07-2018,Harivansh,Maharashtra,Mumbai,Electronics,Electronic Games,292.0,26.0,3,COD
+B-26148,07-08-2018,Kabir,Delhi,Delhi,Clothing,Skirt,573.0,27.0,3,UPI
+B-26149,26-12-2018,Madhav,Uttar Pradesh,Surat,Furniture,Tables,197.0,8.0,1,Credit Card
+B-26150,12-08-2018,Meera,Maharashtra,Surat,Clothing,Kurti,110.0,-3.0,3,Debit Card
+B-26151,23-03-2018,Aarav,Gujarat,Indore,Furniture,Chairs,546.0,-134.0,2,COD
+B-26152,26-05-2018,Madan Mohan,Uttar Pradesh,Delhi,Clothing,Skirt,598.0,59.0,7,UPI
+B-26153,28-06-2018,Harivansh,Punjab,Amritsar,Clothing,Skirt,272.0,-33.0,1,COD
+B-26154,23-06-2018,Harivansh,Gujarat,Mumbai,Clothing,Kurti,111.0,-19.0,3,UPI
+B-26155,24-02-2018,Diya,Gujarat,Lucknow,Clothing,Saree,74.0,1.0,7,COD
+B-26156,08-02-2018,Shiva,Madhya Pradesh,Amritsar,Clothing,Trousers,341.0,90.0,7,Debit Card
+B-26157,08-05-2018,Kabir,Maharashtra,Indore,Clothing,Kurti,174.0,22.0,3,Credit Card
+B-26158,30-11-2018,Madhav,Madhya Pradesh,Indore,Clothing,Saree,260.0,-14.0,4,COD
+B-26159,19-09-2018,Meera,Maharashtra,Lucknow,Electronics,Printers,241.0,-15.0,4,COD
+B-26160,04-11-2018,Meera,Uttar Pradesh,Surat,Clothing,Shirt,145.0,35.0,6,COD
+B-26161,05-03-2018,Harivansh,Maharashtra,Indore,Electronics,Phones,71.0,-37.0,6,UPI
+B-26162,01-06-2018,Diya,Madhya Pradesh,Surat,Electronics,Accessories,200.0,56.0,4,COD
+B-26163,01-08-2018,Meera,Maharashtra,Indore,Clothing,Kurti,300.0,-117.0,3,UPI
+B-26164,08-06-2018,Madan Mohan,Maharashtra,Lucknow,Clothing,Trousers,310.0,-85.0,3,UPI
+B-26165,02-06-2018,Harivansh,Maharashtra,Delhi,Furniture,Chairs,166.0,-8.0,5,EMI
+B-26166,12-05-2018,Meera,Uttar Pradesh,Mumbai,Electronics,Phones,590.0,367.0,6,COD
+B-26167,19-01-2018,Shiva,Gujarat,Surat,Clothing,Saree,120.0,60.0,1,COD
+B-26168,09-11-2018,Harivansh,Maharashtra,Surat,Electronics,Accessories,506.0,130.0,6,COD
+B-26169,07-12-2018,Kabir,Gujarat,Amritsar,Clothing,Trousers,294.0,50.0,4,UPI
+B-26170,30-01-2018,Diya,Gujarat,Indore,Clothing,Kurti,201.0,-77.0,2,COD
+B-26171,31-05-2018,Harivansh,Madhya Pradesh,Lucknow,Electronics,Phones,371.0,44.0,1,COD
+B-26172,09-07-2018,Madan Mohan,Uttar Pradesh,Amritsar,Clothing,Shirt,231.0,-13.0,3,COD
+B-26173,14-10-2018,Harivansh,Madhya Pradesh,Mumbai,Electronics,Phones,91.0,-11.0,2,Debit Card
+B-26174,27-12-2018,Meera,Maharashtra,Lucknow,Clothing,Shirt,113.0,13.0,1,EMI
+B-26175,01-06-2018,Harivansh,Uttar Pradesh,Lucknow,Electronics,Phones,221.0,-8.0,3,COD
+B-26176,01-10-2018,Kabir,Maharashtra,Lucknow,Clothing,Kurti,183.0,54.0,6,COD
+B-26177,09-12-2018,Aarav,Gujarat,Lucknow,Clothing,Trousers,499.0,-202.0,6,COD
+B-26178,31-10-2018,Aarav,Punjab,Surat,Clothing,Shirt,177.0,17.0,2,COD
+B-26179,17-04-2018,Kabir,Gujarat,Indore,Clothing,Shirt,170.0,-24.0,5,EMI
+B-26180,26-10-2018,Meera,Uttar Pradesh,Amritsar,Electronics,Accessories,154.0,-3.0,4,UPI
+B-26181,31-05-2018,Madhav,Uttar Pradesh,Amritsar,Clothing,Kurti,145.0,,6,Debit Card
+B-26182,07-01-2018,Harivansh,Punjab,Indore,Clothing,Saree,148.0,-30.0,2,EMI
+B-26183,04-10-2018,Harivansh,Maharashtra,Amritsar,Clothing,Skirt,101.0,12.0,1,UPI
+B-26184,01-11-2018,Diya,Maharashtra,Indore,Clothing,Saree,302.0,8.0,3,COD
+B-26185,06-05-2018,Aarav,Uttar Pradesh,Mumbai,Electronics,Accessories,245.0,-21.0,7,UPI
+B-26186,14-06-2018,Harivansh,Madhya Pradesh,Lucknow,Clothing,Kurti,238.0,-9.0,4,COD
+B-26187,13-05-2018,Madhav,Madhya Pradesh,Surat,Furniture,Bookcases,77.0,3.0,1,COD
+B-26188,12-02-2018,Aarav,Maharashtra,Amritsar,Clothing,Saree,350.0,-39.0,7,EMI
+B-26189,30-12-2018,Diya,Uttar Pradesh,Delhi,Electronics,Electronic Games,374.0,31.0,6,COD
+B-26190,09-01-2018,Madan Mohan,Maharashtra,Surat,Clothing,Shirt,684.0,7.0,4,UPI
+B-26191,22-07-2018,Meera,Maharashtra,Indore,Clothing,Kurti,361.0,-26.0,6,COD
+B-26192,06-01-2018,Meera,Maharashtra,Amritsar,Furniture,Chairs,772.0,369.0,2,COD
+B-26193,09-09-2018,Kabir,Madhya Pradesh,Delhi,Furniture,Bookcases,164.0,30.0,5,UPI
+B-26194,25-11-2018,Shiva,Gujarat,Mumbai,Furniture,Chairs,707.0,-11.0,7,Debit Card
+B-26195,23-08-2018,Meera,Madhya Pradesh,Mumbai,Clothing,Shirt,368.0,43.0,4,UPI
+B-26196,10-08-2018,Diya,Delhi,Indore,Clothing,Shirt,338.0,-60.0,1,COD
+B-26197,30-10-2018,Aarav,Delhi,Mumbai,Electronics,Printers,234.0,-7.0,6,COD
+B-26198,22-12-2018,Shiva,Madhya Pradesh,Indore,Clothing,Skirt,201.0,-0.0,6,UPI
+B-26199,11-11-2018,Kabir,Gujarat,Amritsar,Electronics,Printers,173.0,-40.0,6,UPI
+B-26200,26-03-2018,Aarav,Delhi,Indore,Clothing,Trousers,723.0,128.0,5,Debit Card
+B-26201,25-07-2018,Madhav,Uttar Pradesh,Delhi,Clothing,Trousers,229.0,-11.0,1,UPI
+B-26202,26-10-2018,Meera,Maharashtra,Amritsar,Electronics,Phones,373.0,-3.0,1,Credit Card
+B-26203,18-04-2018,Harivansh,Maharashtra,Indore,Electronics,Printers,427.0,-27.0,6,Credit Card
+B-26204,04-09-2018,Diya,Punjab,Surat,Clothing,Kurti,424.0,348.0,6,COD
+B-26205,09-01-2018,Diya,Gujarat,Lucknow,Clothing,Skirt,303.0,-26.0,1,UPI
+B-26206,17-11-2018,Aarav,Punjab,Indore,Clothing,Skirt,699.0,-306.0,5,Debit Card
+B-26207,13-08-2018,Harivansh,Punjab,Amritsar,Clothing,Skirt,354.0,-113.0,4,EMI
+B-26208,29-09-2018,Shiva,Maharashtra,Delhi,Clothing,Kurti,170.0,46.0,3,COD
+B-26209,29-10-2018,Meera,Gujarat,Lucknow,Clothing,Trousers,208.0,86.0,5,UPI
+B-26210,21-03-2018,Madhav,Madhya Pradesh,Surat,Electronics,Printers,81.0,-7.0,7,COD
+B-26211,14-06-2018,Diya,Gujarat,Amritsar,Electronics,Accessories,325.0,130.0,6,Debit Card
+B-26212,10-11-2018,Kabir,Maharashtra,Surat,Clothing,Shirt,393.0,104.0,2,EMI
+B-26213,02-03-2018,Meera,Maharashtra,Amritsar,Clothing,Trousers,416.0,14.0,4,EMI
+B-26214,28-10-2018,Aarav,Delhi,Indore,Clothing,Trousers,368.0,5.0,7,COD
+B-26215,16-04-2018,Madan Mohan,Gujarat,Lucknow,Clothing,Skirt,235.0,29.0,2,COD
+B-26216,30-07-2018,Diya,Uttar Pradesh,Indore,Clothing,Shirt,266.0,80.0,6,Debit Card
+B-26217,06-07-2018,Shiva,Madhya Pradesh,Surat,Clothing,Kurti,266.0,48.0,4,UPI
+B-26218,08-09-2018,Diya,Madhya Pradesh,Surat,Electronics,Accessories,500.0,-45.0,4,EMI
+B-26219,02-11-2018,Diya,Punjab,Delhi,Clothing,Saree,59.0,2.0,2,COD
+B-26220,08-05-2018,Diya,Madhya Pradesh,Delhi,Clothing,Saree,191.0,110.0,7,Credit Card
+B-26221,04-03-2018,Madhav,Madhya Pradesh,Surat,Clothing,Shirt,125.0,18.0,4,Debit Card
+B-26222,04-06-2018,Kabir,Uttar Pradesh,Indore,Furniture,Furnishings,881.0,262.0,5,COD
+B-26223,12-08-2018,Aarav,Madhya Pradesh,Lucknow,Electronics,Accessories,564.0,121.0,4,COD
+B-26224,01-10-2018,Meera,Uttar Pradesh,Surat,Clothing,Trousers,197.0,29.0,1,Debit Card
+B-26225,02-10-2018,Diya,Madhya Pradesh,Mumbai,Furniture,Bookcases,93.0,,6,COD
+B-26226,05-05-2018,Meera,Gujarat,Amritsar,Clothing,Shirt,113.0,34.0,3,Credit Card
+B-26227,08-12-2018,Meera,Punjab,Indore,Clothing,Trousers,495.0,129.0,2,UPI
+B-26228,31-01-2018,Meera,Punjab,Surat,Furniture,Tables,79.0,12.0,6,UPI
+B-26229,12-02-2018,Diya,Uttar Pradesh,Delhi,Clothing,Saree,269.0,-25.0,2,COD
+B-26230,10-01-2018,Aarav,Madhya Pradesh,Amritsar,Clothing,Saree,444.0,78.0,5,EMI
+B-26231,05-12-2018,Harivansh,Delhi,Surat,Clothing,Skirt,105.0,7.0,4,Debit Card
+B-26232,07-03-2018,Shiva,Gujarat,Delhi,Clothing,Trousers,267.0,1.0,6,Debit Card
+B-26233,08-08-2018,Shiva,Uttar Pradesh,Surat,Electronics,Phones,199.0,149.0,1,Debit Card
+B-26234,24-10-2018,Kabir,Delhi,Lucknow,Clothing,Kurti,182.0,-55.0,6,UPI
+B-26235,07-10-2018,Aarav,Delhi,Delhi,Clothing,Saree,160.0,51.0,2,EMI
+B-26236,13-12-2018,Shiva,Delhi,Amritsar,Clothing,Skirt,468.0,-63.0,7,UPI
+B-26237,20-01-2018,Madhav,Delhi,Mumbai,Clothing,Saree,641.0,72.0,3,UPI
+B-26238,29-05-2018,Diya,Maharashtra,Lucknow,Clothing,Trousers,222.0,160.0,1,COD
+B-26239,04-07-2018,Shiva,Madhya Pradesh,Mumbai,Clothing,Kurti,339.0,-54.0,4,COD
+B-26240,12-09-2018,Harivansh,Uttar Pradesh,Delhi,Furniture,Tables,271.0,-27.0,1,Debit Card
+B-26241,16-08-2018,Madan Mohan,Maharashtra,Surat,Clothing,Kurti,65.0,5.0,2,COD
+B-26242,24-07-2018,Meera,Gujarat,Mumbai,Clothing,Skirt,216.0,-28.0,6,Debit Card
+B-26243,22-04-2018,Harivansh,Uttar Pradesh,Delhi,Clothing,Saree,56.0,17.0,4,EMI
+B-26244,08-02-2018,Shiva,Maharashtra,Lucknow,Clothing,Kurti,188.0,-10.0,5,COD
+B-26245,07-06-2018,Aarav,Gujarat,Surat,Clothing,Kurti,262.0,64.0,7,COD
+B-26246,05-04-2018,Harivansh,Delhi,Indore,Clothing,Kurti,421.0,-106.0,4,Debit Card
+B-26247,22-07-2018,Madhav,Delhi,Mumbai,Clothing,Saree,319.0,-119.0,4,COD
+B-26248,18-10-2018,Meera,Madhya Pradesh,Mumbai,Furniture,Furnishings,476.0,11.0,1,Credit Card
+B-26249,21-07-2018,Aarav,Gujarat,Lucknow,Furniture,Tables,142.0,-44.0,3,UPI
+B-26250,01-08-2018,Madhav,Madhya Pradesh,Lucknow,Clothing,Shirt,590.0,271.0,6,UPI
+B-26251,16-01-2018,Madhav,Uttar Pradesh,Amritsar,Clothing,Kurti,642.0,-194.0,1,UPI
+B-26252,24-08-2018,Shiva,,Lucknow,Clothing,Skirt,54.0,-10.0,3,UPI
+B-26253,10-06-2018,Diya,Uttar Pradesh,Indore,Clothing,Kurti,75.0,14.0,1,COD
+B-26254,15-02-2018,Diya,Delhi,Surat,Clothing,Kurti,257.0,-17.0,7,COD
+B-26255,20-03-2018,Madhav,Uttar Pradesh,Mumbai,Furniture,Tables,178.0,-53.0,4,COD
+B-26256,12-10-2018,Diya,Madhya Pradesh,Lucknow,Electronics,Phones,198.0,117.0,5,Credit Card
+B-26257,01-12-2018,Meera,Gujarat,Delhi,Electronics,Printers,317.0,-54.0,5,COD
+B-26258,05-07-2018,Madhav,Delhi,Indore,Clothing,Trousers,488.0,15.0,2,COD
+B-26259,23-12-2018,Harivansh,Maharashtra,Delhi,Furniture,Bookcases,137.0,4.0,1,COD
+B-26260,07-03-2018,Meera,Punjab,Lucknow,Clothing,Kurti,541.0,139.0,3,COD
+B-26261,20-04-2018,Aarav,Delhi,Amritsar,Clothing,Kurti,158.0,31.0,2,COD
+B-26262,06-12-2018,Kabir,Punjab,Indore,Clothing,Kurti,957.0,-121.0,3,Debit Card
+B-26263,05-03-2018,Madan Mohan,Punjab,Amritsar,Furniture,Furnishings,593.0,-1.0,3,COD
+B-26264,29-08-2018,Madan Mohan,Punjab,Delhi,Clothing,Shirt,170.0,4.0,6,Debit Card
+B-26265,22-03-2018,Madhav,Delhi,Surat,Electronics,Electronic Games,95.0,25.0,3,COD
+B-26266,01-05-2018,Madhav,Uttar Pradesh,Indore,Clothing,Kurti,167.0,-35.0,2,UPI
+B-26267,24-06-2018,Shiva,Maharashtra,Mumbai,Furniture,Furnishings,151.0,88.0,7,COD
+B-26268,12-05-2018,Harivansh,Uttar Pradesh,Surat,Clothing,Saree,388.0,-43.0,1,Debit Card
+B-26269,16-11-2018,Kabir,Delhi,Lucknow,Clothing,Shirt,55.0,4.0,2,EMI
+B-26270,22-12-2018,Aarav,Uttar Pradesh,Indore,Furniture,Furnishings,76.0,-16.0,3,COD
+B-26271,02-07-2018,Meera,Gujarat,Amritsar,Clothing,Shirt,381.0,-93.0,1,EMI
+B-26272,11-07-2018,Aarav,Maharashtra,Indore,Clothing,Skirt,146.0,-20.0,7,COD
+B-26273,21-01-2018,Madan Mohan,Madhya Pradesh,Lucknow,Clothing,Kurti,190.0,,3,UPI
+B-26274,27-03-2018,Aarav,Madhya Pradesh,Surat,Clothing,Saree,443.0,-10.0,6,Debit Card
+B-26275,15-01-2018,Madhav,Madhya Pradesh,Amritsar,Clothing,Trousers,502.0,-83.0,1,COD
+B-26276,09-11-2018,Kabir,Maharashtra,Amritsar,Clothing,Saree,575.0,146.0,4,UPI
+B-26277,24-03-2018,Diya,Maharashtra,Delhi,Clothing,Trousers,419.0,-48.0,1,COD
+B-26278,05-05-2018,Madhav,Gujarat,Mumbai,Furniture,Chairs,229.0,-33.0,2,Debit Card
+B-26279,04-11-2018,Aarav,Madhya Pradesh,Mumbai,Clothing,Skirt,216.0,-4.0,3,COD
+B-26280,18-09-2018,Aarav,Maharashtra,Surat,Clothing,Shirt,199.0,65.0,7,Credit Card
+B-26281,15-08-2018,Madhav,Maharashtra,Delhi,Clothing,Skirt,106.0,14.0,3,COD
+B-26282,15-01-2018,Harivansh,Madhya Pradesh,Mumbai,Clothing,Saree,133.0,7.0,6,EMI
+B-26283,25-07-2018,Kabir,Maharashtra,Surat,Electronics,Phones,528.0,-147.0,1,COD
+B-26284,24-07-2018,Madan Mohan,Delhi,Amritsar,Furniture,Bookcases,157.0,-32.0,2,UPI
+B-26285,27-04-2018,Aarav,Gujarat,Mumbai,Furniture,Furnishings,106.0,-25.0,5,COD
+B-26286,29-09-2018,Madhav,Maharashtra,Surat,Clothing,Trousers,556.0,226.0,4,COD
+B-26287,06-12-2018,Diya,Uttar Pradesh,Lucknow,Clothing,Skirt,305.0,65.0,4,COD
+B-26288,05-04-2018,Harivansh,Maharashtra,Lucknow,Clothing,Trousers,733.0,-99.0,5,Debit Card
+B-26289,01-05-2018,Madan Mohan,Madhya Pradesh,Surat,Clothing,Kurti,684.0,-42.0,1,COD
+B-26290,28-04-2018,Aarav,Gujarat,Indore,Clothing,Saree,113.0,-14.0,5,UPI
+B-26291,01-11-2018,Shiva,Uttar Pradesh,Mumbai,Electronics,Electronic Games,246.0,-35.0,7,EMI
+B-26292,29-01-2018,Aarav,Gujarat,Amritsar,Clothing,Shirt,125.0,24.0,6,COD
+B-26293,24-11-2018,Madhav,Maharashtra,Lucknow,Clothing,Saree,124.0,1.0,2,COD
+B-26294,10-10-2018,Shiva,Madhya Pradesh,Indore,Clothing,Skirt,195.0,117.0,3,COD
+B-26295,26-06-2018,Kabir,Madhya Pradesh,Surat,Clothing,Skirt,395.0,155.0,7,COD
+B-26296,01-08-2018,Madan Mohan,Madhya Pradesh,Indore,Clothing,Shirt,397.0,162.0,6,UPI
+B-26297,23-11-2018,Madhav,Punjab,Surat,Clothing,Trousers,365.0,90.0,7,Debit Card
+B-26298,08-10-2018,Kabir,Maharashtra,Mumbai,Electronics,Printers,229.0,-6.0,7,COD
+B-26299,12-04-2018,Kabir,Gujarat,Delhi,Clothing,Saree,411.0,94.0,4,COD
+B-26300,19-01-2018,Diya,Gujarat,Lucknow,Clothing,Kurti,105.0,-1.0,1,UPI
+B-26301,29-08-2018,Kabir,Uttar Pradesh,Amritsar,Clothing,Trousers,308.0,150.0,2,COD
+B-26302,23-02-2018,Kabir,Madhya Pradesh,Delhi,Electronics,Printers,267.0,48.0,3,UPI
+B-26303,02-02-2018,Diya,Madhya Pradesh,Amritsar,Clothing,Saree,219.0,32.0,6,EMI
+B-26304,25-12-2018,Aarav,Maharashtra,Indore,Electronics,Accessories,316.0,35.0,2,COD
+B-26305,22-06-2018,Harivansh,Gujarat,Lucknow,Furniture,Furnishings,127.0,65.0,3,UPI
+B-26306,26-08-2018,Aarav,Madhya Pradesh,Surat,Clothing,Trousers,375.0,-104.0,6,Credit Card
+B-26307,21-03-2018,Madan Mohan,Punjab,Mumbai,Electronics,Electronic Games,263.0,142.0,2,Debit Card
+B-26308,07-02-2018,Kabir,Uttar Pradesh,Amritsar,Clothing,Skirt,82.0,3.0,5,Debit Card
+B-26309,23-01-2018,Shiva,Madhya Pradesh,Surat,Furniture,Chairs,259.0,-70.0,4,Debit Card
+B-26310,10-05-2018,Meera,Delhi,Surat,Clothing,Shirt,179.0,-19.0,7,UPI
+B-26311,02-01-2018,Aarav,Madhya Pradesh,Indore,Furniture,Furnishings,536.0,-178.0,4,UPI
+B-26312,03-06-2018,Aarav,Punjab,Surat,Clothing,Kurti,111.0,27.0,4,Debit Card
+B-26313,29-04-2018,Meera,Maharashtra,Amritsar,Clothing,Saree,114.0,-20.0,6,Debit Card
+B-26314,12-07-2018,Shiva,Punjab,Indore,Clothing,Trousers,343.0,42.0,7,Debit Card
+B-26315,04-08-2018,Shiva,Gujarat,Delhi,Electronics,Phones,235.0,85.0,6,COD
+B-26316,23-04-2018,Madan Mohan,Gujarat,Mumbai,Clothing,Skirt,227.0,-20.0,5,Credit Card
+B-26317,16-06-2018,Meera,Madhya Pradesh,Lucknow,Clothing,Shirt,960.0,12.0,7,COD
+B-26318,29-01-2018,Kabir,Gujarat,Mumbai,Electronics,Electronic Games,404.0,-99.0,7,COD
+B-26319,21-04-2018,Madhav,Madhya Pradesh,Delhi,Furniture,Bookcases,207.0,-4.0,6,COD
+B-26320,24-12-2018,Shiva,Delhi,Delhi,Clothing,Trousers,74.0,54.0,3,COD
+B-26321,28-12-2018,Madan Mohan,Maharashtra,Delhi,Clothing,Shirt,199.0,55.0,5,Debit Card
+B-26322,27-06-2018,Diya,Madhya Pradesh,Surat,Clothing,Shirt,102.0,1.0,2,COD
+B-26323,09-12-2018,Harivansh,Madhya Pradesh,Amritsar,Electronics,Phones,133.0,-10.0,4,Debit Card
+B-26324,02-07-2018,Diya,Madhya Pradesh,Indore,Clothing,Skirt,137.0,9.0,4,UPI
+B-26325,15-02-2018,Diya,Madhya Pradesh,Indore,Furniture,Tables,509.0,57.0,7,COD
+B-26326,13-11-2018,Madhav,Gujarat,Indore,Clothing,Skirt,87.0,-2.0,4,COD
+B-26327,01-06-2018,Madhav,Maharashtra,Amritsar,Clothing,Shirt,476.0,101.0,7,UPI
+B-26328,12-08-2018,Diya,Delhi,Mumbai,Clothing,Saree,354.0,-56.0,6,Debit Card
+B-26329,25-08-2018,Madan Mohan,Maharashtra,Mumbai,Clothing,Skirt,350.0,-56.0,6,COD
+B-26330,23-04-2018,Meera,Delhi,Mumbai,Electronics,Printers,129.0,22.0,2,COD
+B-26331,25-09-2018,Kabir,Gujarat,Surat,Clothing,Kurti,436.0,-93.0,6,COD
+B-26332,02-07-2018,Meera,Madhya Pradesh,Delhi,Clothing,Skirt,118.0,31.0,2,COD
+B-26333,14-05-2018,Aarav,Delhi,Amritsar,Furniture,Furnishings,648.0,50.0,5,COD
+B-26334,19-04-2018,Meera,Punjab,Indore,Furniture,Furnishings,517.0,-195.0,4,EMI
+B-26335,30-09-2018,Harivansh,Gujarat,Lucknow,Furniture,Tables,721.0,77.0,2,COD
+B-26336,02-04-2018,Madan Mohan,Madhya Pradesh,Delhi,Clothing,Trousers,268.0,-91.0,7,COD
+B-26337,15-02-2018,Harivansh,Madhya Pradesh,Mumbai,Clothing,Kurti,235.0,60.0,7,Credit Card
+B-26338,18-11-2018,Diya,,Amritsar,Furniture,Chairs,195.0,3.0,5,Debit Card
+B-26339,02-05-2018,Aarav,Maharashtra,Surat,Clothing,Shirt,947.0,514.0,1,COD
+B-26340,22-08-2018,Madan Mohan,Gujarat,Mumbai,Clothing,Saree,393.0,137.0,2,UPI
+B-26341,19-09-2018,Madan Mohan,Madhya Pradesh,Amritsar,Electronics,Phones,103.0,-19.0,2,EMI
+B-26342,02-11-2018,Diya,Gujarat,Lucknow,Clothing,Shirt,601.0,-256.0,7,COD
+B-26343,17-08-2018,Madhav,Maharashtra,Lucknow,Clothing,Kurti,229.0,-25.0,3,COD
+B-26344,16-09-2018,Aarav,Maharashtra,Amritsar,Furniture,Tables,34.0,-8.0,1,Credit Card
+B-26345,02-11-2018,Aarav,Punjab,Delhi,Clothing,Shirt,151.0,81.0,5,Credit Card
+B-26346,11-12-2018,Madhav,Gujarat,Indore,Clothing,Saree,516.0,40.0,7,EMI
+B-26347,18-01-2018,Madhav,Gujarat,Surat,Clothing,Saree,355.0,111.0,4,COD
+B-26348,29-09-2018,Madan Mohan,Punjab,Surat,Clothing,Trousers,403.0,4.0,4,EMI
+B-26349,05-03-2018,Aarav,Madhya Pradesh,Indore,Clothing,Kurti,597.0,21.0,2,COD
+B-26350,22-11-2018,Madan Mohan,Maharashtra,Surat,Electronics,Accessories,65.0,5.0,7,Debit Card
+B-26351,18-01-2018,Shiva,Maharashtra,Delhi,Electronics,Accessories,152.0,54.0,1,Credit Card
+B-26352,01-04-2018,Aarav,Madhya Pradesh,Indore,Clothing,Shirt,273.0,43.0,7,COD
+B-26353,12-03-2018,Madhav,Maharashtra,Lucknow,Clothing,Shirt,526.0,-97.0,2,COD
+B-26354,09-08-2018,Aarav,Punjab,Amritsar,Furniture,Tables,118.0,57.0,1,UPI
+B-26355,02-01-2018,Madhav,Maharashtra,Indore,Clothing,Skirt,207.0,1.0,3,Credit Card
+B-26356,07-01-2018,Madhav,Maharashtra,Surat,Clothing,Skirt,261.0,-9.0,1,COD
+B-26357,04-07-2018,Madhav,Maharashtra,Surat,Clothing,Kurti,147.0,-92.0,1,Credit Card
+B-26358,21-12-2018,Madan Mohan,Maharashtra,Amritsar,Electronics,Accessories,259.0,62.0,2,COD
+B-26359,12-07-2018,Harivansh,Maharashtra,Indore,Clothing,Skirt,234.0,25.0,5,COD
+B-26360,12-06-2018,Meera,Uttar Pradesh,Indore,Electronics,Printers,176.0,18.0,6,COD
+B-26361,29-08-2018,Madan Mohan,Madhya Pradesh,Amritsar,Clothing,Trousers,435.0,-9.0,2,EMI
+B-26362,21-07-2018,Kabir,Uttar Pradesh,Lucknow,Clothing,Shirt,384.0,-25.0,5,COD
+B-26363,21-05-2018,Meera,Gujarat,Delhi,Clothing,Skirt,448.0,-6.0,3,UPI
+B-26364,03-08-2018,Kabir,Uttar Pradesh,Delhi,Clothing,Shirt,474.0,93.0,4,COD
+B-26365,02-01-2018,Kabir,Delhi,Delhi,Clothing,Skirt,79.0,19.0,3,EMI
+B-26366,31-03-2018,Harivansh,Madhya Pradesh,Delhi,Clothing,Saree,86.0,2.0,7,Credit Card
+B-26367,03-09-2018,Madan Mohan,Maharashtra,Lucknow,Clothing,Saree,411.0,130.0,4,COD
+B-26368,05-05-2018,Diya,Madhya Pradesh,Lucknow,Clothing,Skirt,188.0,11.0,4,COD
+B-26369,20-01-2018,Aarav,Punjab,Lucknow,Clothing,Shirt,171.0,-8.0,7,COD
+B-26370,15-02-2018,Harivansh,Uttar Pradesh,Delhi,Clothing,Shirt,153.0,20.0,5,COD
+B-26371,13-11-2018,Aarav,Maharashtra,Surat,Furniture,Bookcases,458.0,-119.0,2,Credit Card
+B-26372,01-05-2018,Kabir,Madhya Pradesh,Delhi,Clothing,Kurti,909.0,126.0,2,UPI
+B-26373,09-01-2018,Kabir,Gujarat,Surat,Electronics,Electronic Games,472.0,-144.0,3,COD
+B-26374,24-09-2018,Shiva,Uttar Pradesh,Lucknow,Furniture,Tables,182.0,-32.0,1,Debit Card
+B-26375,13-07-2018,Madhav,Uttar Pradesh,Surat,Clothing,Shirt,443.0,-188.0,5,UPI
+B-26376,14-06-2018,Madan Mohan,Gujarat,Lucknow,Electronics,Phones,84.0,3.0,4,COD
+B-26377,23-11-2018,Madan Mohan,,Lucknow,Furniture,Tables,223.0,108.0,1,COD
+B-26378,25-04-2018,Madan Mohan,Uttar Pradesh,Mumbai,Electronics,Printers,65.0,3.0,3,COD
+B-26379,28-07-2018,Madan Mohan,Maharashtra,Indore,Clothing,Skirt,188.0,45.0,6,UPI
+B-26380,29-09-2018,Shiva,Maharashtra,Surat,Clothing,Skirt,294.0,196.0,7,COD
+B-26381,11-08-2018,Harivansh,Punjab,Mumbai,Clothing,Saree,1017.0,184.0,7,UPI
+B-26382,17-03-2018,Madan Mohan,Uttar Pradesh,Indore,Clothing,Kurti,554.0,-62.0,7,COD
+B-26383,06-09-2018,Madan Mohan,Madhya Pradesh,Surat,Furniture,Chairs,66.0,-5.0,5,Debit Card
+B-26384,29-09-2018,Madhav,Uttar Pradesh,Amritsar,Furniture,Tables,71.0,6.0,7,COD
+B-26385,14-02-2018,Meera,Maharashtra,Lucknow,Clothing,Trousers,147.0,-11.0,7,UPI
+B-26386,02-03-2018,Diya,Gujarat,Lucknow,Electronics,Phones,779.0,-46.0,5,COD
+B-26387,04-09-2018,Meera,Maharashtra,Delhi,Clothing,Saree,68.0,22.0,3,COD
+B-26388,13-02-2018,Aarav,Gujarat,Surat,Furniture,Tables,154.0,52.0,7,COD
+B-26389,18-11-2018,Harivansh,Uttar Pradesh,Lucknow,Clothing,Shirt,153.0,-51.0,3,UPI
+B-26390,09-02-2018,Meera,Maharashtra,Indore,Furniture,Bookcases,343.0,-43.0,2,Debit Card
+B-26391,22-12-2018,Shiva,Maharashtra,Lucknow,Electronics,Electronic Games,450.0,-16.0,1,COD
+B-26392,03-09-2018,Diya,,Indore,Clothing,Saree,387.0,89.0,4,Debit Card
+B-26393,11-06-2018,Shiva,Maharashtra,Surat,Clothing,Saree,311.0,114.0,1,UPI
+B-26394,08-04-2018,Shiva,Maharashtra,Mumbai,Electronics,Accessories,82.0,62.0,1,UPI
+B-26395,06-05-2018,Shiva,Delhi,Delhi,Clothing,Shirt,278.0,-10.0,2,UPI
+B-26396,01-10-2018,Madan Mohan,Madhya Pradesh,Mumbai,Clothing,Kurti,608.0,-15.0,4,COD
+B-26397,02-10-2018,Aarav,Madhya Pradesh,Amritsar,Furniture,Tables,743.0,169.0,4,Debit Card
+B-26398,18-03-2018,Diya,Maharashtra,Delhi,Clothing,Saree,337.0,-31.0,4,Debit Card
+B-26399,18-07-2018,Harivansh,Gujarat,Mumbai,Clothing,Trousers,66.0,3.0,4,Debit Card
+B-26400,29-12-2018,Madhav,Maharashtra,Amritsar,Clothing,Kurti,341.0,-8.0,7,COD
+B-26401,04-04-2018,Kabir,Maharashtra,Delhi,Clothing,Saree,234.0,-135.0,2,Debit Card
+B-26402,11-09-2018,Aarav,Madhya Pradesh,Delhi,Furniture,Tables,75.0,8.0,4,COD
+B-26403,04-03-2018,Meera,Maharashtra,Mumbai,Clothing,Skirt,113.0,4.0,5,UPI
+B-26404,01-11-2018,Aarav,Madhya Pradesh,Indore,Clothing,Kurti,129.0,51.0,2,COD
+B-26405,04-03-2018,Diya,Maharashtra,Surat,Clothing,Skirt,412.0,34.0,2,COD
+B-26406,19-04-2018,Meera,Maharashtra,Lucknow,Furniture,Tables,722.0,-169.0,1,UPI
+B-26407,17-06-2018,Diya,Madhya Pradesh,Delhi,Clothing,Saree,370.0,6.0,3,Credit Card
+B-26408,16-05-2018,Madan Mohan,Gujarat,Amritsar,Furniture,Tables,420.0,-186.0,2,COD
+B-26409,04-03-2018,Aarav,Maharashtra,Lucknow,Electronics,Phones,245.0,-55.0,2,UPI
+B-26410,22-08-2018,Madhav,Maharashtra,Lucknow,Electronics,Printers,169.0,40.0,2,UPI
+B-26411,08-01-2018,Madan Mohan,Punjab,Surat,Furniture,Chairs,377.0,7.0,5,EMI
+B-26412,25-12-2018,Diya,Gujarat,Mumbai,Furniture,Tables,314.0,98.0,6,Debit Card
+B-26413,20-01-2018,Madhav,Delhi,Lucknow,Furniture,Chairs,139.0,-57.0,4,COD
+B-26414,02-05-2018,Diya,Maharashtra,Amritsar,Clothing,Shirt,299.0,6.0,1,COD
+B-26415,06-12-2018,Aarav,Madhya Pradesh,Indore,Electronics,Phones,257.0,-10.0,6,UPI
+B-26416,26-02-2018,Madan Mohan,Maharashtra,Indore,Clothing,Shirt,205.0,65.0,2,COD
+B-26417,27-01-2018,Harivansh,Maharashtra,Lucknow,Clothing,Saree,165.0,41.0,1,EMI
+B-26418,29-09-2018,Diya,Madhya Pradesh,Mumbai,Furniture,Chairs,336.0,81.0,4,EMI
+B-26419,27-01-2018,Kabir,Uttar Pradesh,Mumbai,Furniture,Bookcases,173.0,81.0,3,EMI
+B-26420,25-11-2018,Diya,Madhya Pradesh,Indore,Electronics,Accessories,910.0,-11.0,3,COD
+B-26421,14-06-2018,Shiva,Uttar Pradesh,Amritsar,Clothing,Skirt,362.0,150.0,7,Debit Card
+B-26422,14-11-2018,Diya,Maharashtra,Indore,Clothing,Trousers,340.0,-62.0,1,Debit Card
+B-26423,31-03-2018,Shiva,Madhya Pradesh,Surat,Clothing,Shirt,227.0,-43.0,1,COD
+B-26424,21-02-2018,Madan Mohan,Gujarat,Lucknow,Clothing,Kurti,192.0,51.0,5,COD
+B-26425,18-12-2018,Madan Mohan,Gujarat,Surat,Clothing,Skirt,55.0,-16.0,3,COD
+B-26426,06-10-2018,Madhav,Madhya Pradesh,Indore,Clothing,Kurti,146.0,33.0,6,COD
+B-26427,29-11-2018,Meera,Uttar Pradesh,Amritsar,Clothing,Shirt,65.0,7.0,1,EMI
+B-26428,27-04-2018,Diya,Maharashtra,Lucknow,Electronics,Electronic Games,64.0,22.0,3,Credit Card
+B-26429,28-05-2018,Madhav,Maharashtra,Surat,Clothing,Skirt,100.0,7.0,2,COD
+B-26430,30-07-2018,Kabir,Delhi,Surat,Furniture,Furnishings,567.0,53.0,1,UPI
+B-26431,13-06-2018,Madhav,Maharashtra,Lucknow,Clothing,Saree,565.0,117.0,4,COD
+B-26432,30-03-2018,Aarav,Madhya Pradesh,Surat,Clothing,Skirt,148.0,-13.0,6,COD
+B-26433,17-05-2018,Madhav,Madhya Pradesh,Mumbai,Clothing,Saree,80.0,-8.0,2,COD
+B-26434,11-08-2018,Madan Mohan,Maharashtra,Lucknow,Clothing,Shirt,186.0,37.0,6,UPI
+B-26435,14-01-2018,Diya,Maharashtra,Lucknow,Furniture,Furnishings,409.0,30.0,4,Debit Card
+B-26436,03-05-2018,Meera,Madhya Pradesh,Amritsar,Clothing,Trousers,492.0,-11.0,4,Credit Card
+B-26437,17-04-2018,Meera,Punjab,Amritsar,Clothing,Skirt,296.0,18.0,7,Credit Card
+B-26438,26-01-2018,Meera,Uttar Pradesh,Surat,Furniture,Tables,334.0,160.0,3,COD
+B-26439,14-02-2018,Madhav,Madhya Pradesh,Amritsar,Furniture,Tables,312.0,-10.0,2,Debit Card
+B-26440,30-06-2018,Harivansh,Maharashtra,Amritsar,Clothing,Kurti,69.0,-3.0,6,COD
+B-26441,07-02-2018,Meera,Uttar Pradesh,Surat,Clothing,Kurti,86.0,-30.0,1,COD
+B-26442,06-05-2018,Meera,Maharashtra,Delhi,Clothing,Trousers,742.0,52.0,7,UPI
+B-26443,24-07-2018,Madan Mohan,Uttar Pradesh,Indore,Clothing,Shirt,295.0,72.0,6,COD
+B-26444,15-11-2018,Harivansh,Delhi,Surat,Clothing,Trousers,45.0,13.0,7,COD
+B-26445,06-02-2018,Diya,Madhya Pradesh,Indore,Clothing,Shirt,347.0,37.0,4,COD
+B-26446,08-06-2018,Harivansh,,Indore,Furniture,Tables,125.0,40.0,5,COD
+B-26447,07-02-2018,Harivansh,Maharashtra,Amritsar,Clothing,Saree,519.0,136.0,7,EMI
+B-26448,06-06-2018,Meera,Maharashtra,Mumbai,Clothing,Shirt,483.0,173.0,1,COD
+B-26449,25-06-2018,Shiva,Madhya Pradesh,Mumbai,Clothing,Skirt,394.0,128.0,3,UPI
+B-26450,19-10-2018,Harivansh,Gujarat,Delhi,Electronics,Electronic Games,293.0,138.0,4,EMI
+B-26451,11-06-2018,Diya,Maharashtra,Delhi,Clothing,Kurti,603.0,23.0,5,UPI
+B-26452,08-12-2018,Madan Mohan,Uttar Pradesh,Mumbai,Furniture,Tables,644.0,-162.0,5,COD
+B-26453,20-02-2018,Aarav,Delhi,Lucknow,Furniture,Chairs,127.0,31.0,7,EMI
+B-26454,20-01-2018,Meera,Maharashtra,Indore,Clothing,Trousers,391.0,108.0,4,COD
+B-26455,02-01-2018,Madhav,Maharashtra,Indore,Clothing,Saree,166.0,78.0,2,COD
+B-26456,11-05-2018,Diya,Madhya Pradesh,Indore,Clothing,Shirt,113.0,45.0,2,UPI
+B-26457,12-03-2018,Kabir,Delhi,Surat,Clothing,Saree,643.0,364.0,6,COD
+B-26458,03-02-2018,Shiva,Madhya Pradesh,Lucknow,Furniture,Bookcases,434.0,102.0,4,Credit Card
+B-26459,28-03-2018,Meera,Delhi,Amritsar,Clothing,Trousers,310.0,43.0,5,COD
+B-26460,22-12-2018,Shiva,Gujarat,Mumbai,Electronics,Printers,137.0,-36.0,4,UPI
+B-26461,20-10-2018,Shiva,Delhi,Surat,Clothing,Kurti,656.0,103.0,6,Debit Card
+B-26462,07-01-2018,Meera,Punjab,Amritsar,Clothing,Shirt,123.0,-7.0,2,EMI
+B-26463,01-12-2018,Diya,Delhi,Lucknow,Clothing,Trousers,103.0,14.0,2,COD
+B-26464,16-03-2018,Kabir,Gujarat,Surat,Electronics,Phones,258.0,24.0,6,COD
+B-26465,29-05-2018,Kabir,Gujarat,Lucknow,Electronics,Printers,409.0,81.0,4,EMI
+B-26466,30-04-2018,Diya,Delhi,Delhi,Clothing,Trousers,200.0,11.0,6,UPI
+B-26467,28-05-2018,Madhav,Gujarat,Amritsar,Clothing,Skirt,290.0,91.0,1,COD
+B-26468,05-10-2018,Shiva,Punjab,Delhi,Electronics,Electronic Games,166.0,-100.0,2,COD
+B-26469,18-09-2018,Kabir,Madhya Pradesh,Delhi,Clothing,Trousers,180.0,23.0,7,Credit Card
+B-26470,05-08-2018,Aarav,Uttar Pradesh,Amritsar,Furniture,Tables,797.0,303.0,6,UPI
+B-26471,17-08-2018,Madan Mohan,Madhya Pradesh,Lucknow,Clothing,Skirt,240.0,131.0,1,UPI
+B-26472,23-09-2018,Madan Mohan,Gujarat,Indore,Clothing,Shirt,629.0,165.0,6,Credit Card
+B-26473,09-03-2018,Kabir,Madhya Pradesh,Surat,Clothing,Saree,63.0,32.0,1,COD
+B-26474,25-05-2018,Madhav,Gujarat,Surat,Clothing,Skirt,526.0,64.0,1,COD
+B-26475,09-02-2018,Harivansh,Gujarat,Indore,Clothing,Kurti,142.0,11.0,7,UPI
+B-26476,15-09-2018,Kabir,Punjab,Surat,Clothing,Skirt,441.0,94.0,1,Credit Card
+B-26477,09-06-2018,Madan Mohan,Maharashtra,Mumbai,Furniture,Tables,141.0,11.0,3,COD
+B-26478,21-08-2018,Kabir,Delhi,Indore,Clothing,Skirt,190.0,-22.0,1,Debit Card
+B-26479,26-07-2018,Aarav,Delhi,Amritsar,Clothing,Shirt,111.0,-5.0,5,COD
+B-26480,10-04-2018,Meera,Punjab,Delhi,Clothing,Shirt,447.0,-89.0,1,COD
+B-26481,20-02-2018,Aarav,Punjab,Delhi,Clothing,Kurti,495.0,105.0,3,EMI
+B-26482,22-12-2018,Kabir,Uttar Pradesh,Delhi,Clothing,Skirt,145.0,12.0,3,COD
+B-26483,18-04-2018,Kabir,Uttar Pradesh,Mumbai,Clothing,Saree,76.0,-1.0,5,COD
+B-26484,09-02-2018,Madhav,Maharashtra,Amritsar,Electronics,Phones,623.0,-38.0,4,Debit Card
+B-26485,22-04-2018,Meera,Punjab,Indore,Clothing,Kurti,159.0,33.0,2,COD
+B-26486,26-11-2018,Diya,Maharashtra,Surat,Furniture,Chairs,231.0,64.0,4,COD
+B-26487,06-04-2018,Harivansh,Delhi,Amritsar,Clothing,Kurti,126.0,-26.0,4,Credit Card
+B-26488,27-12-2018,Harivansh,Gujarat,Indore,Furniture,Chairs,418.0,-101.0,3,COD
+B-26489,18-06-2018,Madan Mohan,Madhya Pradesh,Delhi,Clothing,Kurti,425.0,135.0,4,Debit Card
+B-26490,11-11-2018,Harivansh,Maharashtra,Mumbai,Clothing,Saree,691.0,-182.0,3,COD
+B-26491,27-08-2018,Madan Mohan,Maharashtra,Delhi,Electronics,Printers,536.0,116.0,3,COD
+B-26492,17-01-2018,Meera,Gujarat,Lucknow,Electronics,Accessories,512.0,248.0,6,Debit Card
+B-26493,05-07-2018,Shiva,Madhya Pradesh,Mumbai,Electronics,Phones,247.0,120.0,2,COD
+B-26494,02-06-2018,Harivansh,Maharashtra,Surat,Clothing,Kurti,226.0,60.0,3,Credit Card
+B-26495,15-03-2018,Shiva,Delhi,Amritsar,Electronics,Accessories,414.0,106.0,1,EMI
+B-26496,20-07-2018,Madhav,Maharashtra,Mumbai,Furniture,Tables,237.0,152.0,5,Credit Card
+B-26497,07-02-2018,Kabir,Gujarat,Amritsar,Electronics,Phones,548.0,-276.0,5,COD
+B-26498,12-09-2018,Harivansh,Madhya Pradesh,Amritsar,Clothing,Kurti,120.0,-4.0,5,COD
+B-26499,27-10-2018,Kabir,Maharashtra,Delhi,Electronics,Phones,62.0,18.0,2,Credit Card
+B-25091,11-04-2018,Diya,Maharashtra,Amritsar,Electronics,Phones,633.0,80.0,5,UPI
+B-25075,12-11-2018,Madhav,Punjab,Delhi,Clothing,Trousers,295.0,29.0,4,Credit Card
+B-26264,29-08-2018,Madan Mohan,Punjab,Delhi,Clothing,Shirt,170.0,4.0,6,Debit Card
+B-25330,08-02-2018,Madhav,Maharashtra,Surat,Electronics,Accessories,259.0,-23.0,3,EMI
+B-26349,05-03-2018,Aarav,Madhya Pradesh,Indore,Clothing,Kurti,597.0,21.0,2,COD
+B-25774,09-02-2018,Harivansh,Madhya Pradesh,Mumbai,Clothing,Shirt,222.0,-37.0,4,Debit Card
+B-26038,17-12-2018,Harivansh,Maharashtra,Amritsar,Clothing,Kurti,79.0,-21.0,4,Credit Card
+B-26285,27-04-2018,Aarav,Gujarat,Mumbai,Furniture,Furnishings,106.0,-25.0,5,COD
+B-26165,02-06-2018,Harivansh,Maharashtra,Delhi,Furniture,Chairs,166.0,-8.0,5,EMI
+B-25335,05-05-2018,Aarav,Madhya Pradesh,Mumbai,Clothing,Kurti,123.0,31.0,3,COD
+B-25685,11-04-2018,Kabir,Madhya Pradesh,Surat,Clothing,Saree,1299.0,364.0,2,UPI
+B-25181,27-03-2018,Diya,Delhi,Mumbai,Furniture,Bookcases,852.0,388.0,7,Credit Card
+B-26220,08-05-2018,Diya,Madhya Pradesh,Delhi,Clothing,Saree,191.0,110.0,7,Credit Card
+B-25101,26-01-2018,Harivansh,Gujarat,Surat,Electronics,Printers,386.0,57.0,7,COD
+B-25692,04-08-2018,Madhav,Gujarat,Surat,Clothing,Saree,107.0,42.0,7,Credit Card
+B-26126,08-06-2018,Kabir,Maharashtra,Indore,Clothing,Saree,352.0,152.0,6,Debit Card
+B-25169,03-09-2018,Madan Mohan,Punjab,Lucknow,Furniture,Chairs,115.0,16.0,2,Debit Card
+B-25926,28-07-2018,Madan Mohan,Gujarat,Indore,Clothing,Shirt,181.0,-3.0,7,COD
+B-26295,26-06-2018,Kabir,Madhya Pradesh,Surat,Clothing,Skirt,395.0,155.0,7,COD
+B-25414,02-07-2018,Madhav,Madhya Pradesh,Surat,Clothing,Shirt,232.0,-96.0,5,Debit Card
