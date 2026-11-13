@@ -11,15 +11,22 @@ copy .env.example .env          # Mac/Linux: cp .env.example .env   (then add GE
 streamlit run app.py
 ```
 The Dashboard, Data Profile, Chart Builder, Insights, Report, Forecast and manual SQL work without an API key.
-Only "Ask AI", "Text-to-SQL" and "PDF Q&A" require a Gemini API key.
+Only "Ask AI", "Text-to-SQL" and "PDF Q&A" require a Groq API key.
 
 ## Tests
 `python -m pytest -q`
 
 ## Environment variables (names only)
-GEMINI_API_KEY, GEMINI_MODEL (optional, default gemini-flash-latest)
+GROQ_API_KEY, Groq_MODEL (optional, default openai-model-name)
 
 ## Known limitations
 - The forecast is a linear trend model (no seasonality).
+
+
+## Project Team Members
+      1.Vikash Jha
+      2.Prateek Vats
+      3.Harsh Mishra
+      4.Adit Shaiwal
 - PDF Q&A uses TF-IDF (embeddings would improve retrieval).
 - SQLite demo database; use MySQL with a read-only user in production.
